@@ -71,5 +71,14 @@ In "Question1.py" file, you will find complete implementation of quering stackov
     - asker_uid
     - answerer_uid
   
+---------------------------------------------------------------------------------------------------------    
   
+# RCommands Folder
+- This folder contains implementation 
+File name: 720 Assignment1 .R
+  - Importing data fetched from StackOverflow using API mentioned above
+  - Generating Network Graph 
+  - Extracting Components
+  - Extracting Giant Components out of network graph.
+  - Ploting Network Graph and its Giant Component seperately.
   
