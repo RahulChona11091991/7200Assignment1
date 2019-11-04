@@ -65,15 +65,12 @@ plot(giant_component_sub_graph[[1]], main="Giant Component", vertex.size=8, vert
 # ------------- Plotting Components Complete Graph - With Loops  -------------
 plot(net,layout=layout_components(net), main="Plotting Component With Loops", vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, vertex.label.degree = -pi/2, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray")
 
-# ------------- Plotting Giant Components - With Loops  -------------
-plot(net,layout=layout_components(giant_component_sub_graph[[1]]), main="Plotting Giant Component With Loops",vertex.size=4, vertex.label=NA)
-
-
 
 
 #-------------------------------------------------------------------------------------
 #-----------------------------Without Loops-------------------------------------------
 #-------------------------------------------------------------------------------------
+
 
 #net_without_loops - if a user has answered its own question then skipping that edge.
 net_without_loops <-simplify(net,remove.multiple =F, remove.loops =T)
@@ -88,9 +85,6 @@ print(giant_component_sub_graph_without_Loops)
 # ------------- Graph Plot Without Loops -------------
 par(mar=c(0,0,0,0))
 plot(net_without_loops, main="Complete Graph Without Loops",vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
-
-# ------------- Plot Giant Component Without Loops -------------
-plot(giant_component_sub_graph_without_Loops[[1]], main="Giant Component", vertex.size=8, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, vertex.label.degree = -pi/2, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray")
 
 # ------------- Plotting all Component Without Loops  -------------
 plot(net_without_loops,layout=layout_components(net_without_loops), main="Plotting all Component Without Loops", vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, vertex.label.degree = -pi/2, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
