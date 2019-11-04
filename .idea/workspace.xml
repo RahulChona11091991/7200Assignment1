@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c149376-0b8f-4a90-9fa4-2c5e9e4e26e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/allPosts-metadata.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/allPosts.tsv" afterDir="false" />
+    <list default="true" id="7c149376-0b8f-4a90-9fa4-2c5e9e4e26e4" name="Default Changelist" comment="Added data folder and files.">
       <change afterPath="$PROJECT_DIR$/data/asker-answerer-giant.tsv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/askerAnswerer.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +169,7 @@
       <updated>1572500625962</updated>
       <workItem from="1572500637632" duration="13642000" />
       <workItem from="1572821960109" duration="7847000" />
-      <workItem from="1572894027886" duration="1093000" />
+      <workItem from="1572894027886" duration="1339000" />
     </task>
     <task id="LOCAL-00001" summary="Added missing files.">
       <created>1572902804406</created>
@@ -188,16 +185,37 @@
       <option name="project" value="LOCAL" />
       <updated>1572902831585</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added data folder and files.">
+      <created>1572903090408</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572903090408</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added data folder and files.">
+      <created>1572903200888</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572903200888</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added data folder and files.">
+      <created>1572903249848</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572903249848</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22582000" />
+    <option name="totallyTimeSpent" value="22828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49827588" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49827588" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" sideWeight="0.5017241" side_tool="true" visible="true" weight="0.25679544" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -208,7 +226,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49642345" visible="true" weight="0.30120483" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49642345" visible="true" weight="0.30120483" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Inspection Results" order="10" sideWeight="0.4985694" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -229,7 +247,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added missing files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added missing files." />
+    <MESSAGE value="Added data folder and files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added data folder and files." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/7200Assignment$Question1.coverage" NAME="Question1 Coverage Results" MODIFIED="1572832395531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
