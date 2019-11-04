@@ -74,8 +74,8 @@ In "Question1.py" file, you will find complete implementation of quering stackov
 ---------------------------------------------------------------------------------------------------------    
   
 # RCommands Folder
+- File name: 720 Assignment1 .R
 - This folder contains implementation 
-File name: 720 Assignment1 .R
   - Importing data fetched from StackOverflow using API mentioned above
   - Generating Network Graph 
   - Extracting Components
