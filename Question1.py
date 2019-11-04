@@ -5,7 +5,7 @@ import numpy as np
 # write file header
 with open('./allPosts.tsv', 'w+') as output:
     output.write('poster_user_id\tpost_type\tquestion_id\tis_answered\tquestion_title\tanswer_count\tview_count\tanswer_id\tanswer_creation_date\tis_accepted\tquestion_creation_date\n')
-with open ('./edges.tsv', 'w+') as output:
+with open ('./askerAnswerer.tsv', 'w+') as output:
     #output.write('asker_uid\tanswerer_uid\tquestion_id\t\n')
     output.write('')
 with open ('./allPosts-metadata.tsv', 'w+') as output:
@@ -26,7 +26,7 @@ for index in range(10):
         if i2['answer_count'] > 0:
             for answerItem in i2['answers']:
 
-                with open('./edges.tsv', 'a+') as output:
+                with open('./askerAnswerer.tsv', 'a+') as output:
                     output.write('{}\t{}\t{}\n'.format(
 
                         i2['owner']['user_id'] if i2['owner']['user_type'] == 'registered' else
