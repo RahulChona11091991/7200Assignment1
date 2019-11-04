@@ -55,14 +55,14 @@ for index in range(10):
                         answerItem['owner']['user_id'] if answerItem['owner']['user_type'] == 'registered' else (answerItem['owner']['display_name'] + str(i2['question_id'])),
                         'answer',
                         answerItem['question_id'],
-                        'na', # 'na' represnts not applicable.
-                        'na', # 'na' represnts not applicable.
-                        'na', # 'na' represnts not applicable.
-                        'na', # 'na' represnts not applicable.
+                        'na', # 'na' represents not applicable.
+                        'na', # 'na' represents not applicable.
+                        'na', # 'na' represents not applicable.
+                        'na', # 'na' represents not applicable.
                         answerItem['answer_id'],
                         answerItem['creation_date'],
                         is_accepted,
-                        'na', # 'na' represnts not applicable.
+                        'na', # 'na' represents not applicable.
                     ))
 
         # Question
@@ -84,9 +84,9 @@ for index in range(10):
                 question_body,
                 i2['answer_count'],
                 i2['view_count'],
-                '0', # '0' represnts not applicable.
                 '0', # '0' represents not applicable.
-                'na', # 'na' represents not applucable.
+                '0', # '0' represents not applicable.
+                'na', # 'na' represents not applicable.
                 i2['creation_date'],
             ))
 
@@ -96,7 +96,7 @@ for index in range(10):
                 i2['owner']['user_id'] if i2['owner']['user_type'] == 'registered' else (i2['owner']['display_name'] + str(i2['question_id'])),
                 i2['question_id'],
                 'question',
-                'na',  # 'na' represents not applucable.
+                'na',  # 'na' represents not applicable.
             ))
 
 
