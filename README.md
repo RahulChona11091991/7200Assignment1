@@ -11,9 +11,9 @@ This project has 3 main components.
   # RCommands Folder
     - 720 Assignment1 .R file
     
-# In "Question1.py" file, you will find complete implementation of quering stackoverflow using StackOverflow API with some filters as per assignment requirements for extracted 1000 Questions and all their answers.
+In "Question1.py" file, you will find complete implementation of quering stackoverflow using StackOverflow API with some filters as per assignment requirements for extracted 1000 Questions and all their answers.
 
-# EndPoint: https://api.stackexchange.com/2.2
+# EndPoint Used: https://api.stackexchange.com/2.2
 
 
 # Data Folder
