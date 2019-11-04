@@ -33,7 +33,7 @@ In "Question1.py" file, you will find complete implementation of quering stackov
     - question_creation_date
     
 # Assumption
-- 'na', # 'na' represnts not applicable.
+- 'na' represnts not applicable.
 - '0' represnts not applicable.
 
 ---------------------------------------------------------------------------------------------------------
@@ -47,7 +47,7 @@ In "Question1.py" file, you will find complete implementation of quering stackov
     - answer_id
     
 # Assumption
-- 'na', # 'na' represnts not applicable.
+- 'na' represnts not applicable.
 - '0' represnts not applicable.
 
 ---------------------------------------------------------------------------------------------------------
@@ -60,7 +60,7 @@ In "Question1.py" file, you will find complete implementation of quering stackov
     - question_id
 
 # Assumption
-- 'na', # 'na' represnts not applicable.
+- 'na' represnts not applicable.
 - '0' represnts not applicable.
 
 ---------------------------------------------------------------------------------------------------------  
