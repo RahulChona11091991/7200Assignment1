@@ -82,3 +82,7 @@ In "Question1.py" file, you will find complete implementation of quering stackov
   - Extracting Giant Components out of network graph.
   - Ploting Network Graph and its Giant Component seperately.
   
+---------------------------------------------------------------------------------------------------------    
+
+# Results
+- Result PDF files in Results folder
