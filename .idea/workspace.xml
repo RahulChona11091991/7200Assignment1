@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7c149376-0b8f-4a90-9fa4-2c5e9e4e26e4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Question1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Question1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="27" />
+            <state relative-caret-position="127">
+              <caret line="73" column="24" lean-forward="true" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -32,7 +33,10 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/allPosts.tsv">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -59,12 +63,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Question1.py" />
         <option value="$PROJECT_DIR$/data/RCommands/720 Assignment1 .R" />
+        <option value="$PROJECT_DIR$/Question1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="831" />
@@ -75,6 +79,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,13 +94,17 @@
             </path>
             <path>
               <item name="7200Assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7200Assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="Results" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7200Assignment" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,7 +196,8 @@
       <updated>1572500625962</updated>
       <workItem from="1572500637632" duration="13642000" />
       <workItem from="1572821960109" duration="7847000" />
-      <workItem from="1572894027886" duration="5591000" />
+      <workItem from="1572894027886" duration="5819000" />
+      <workItem from="1575971314339" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="Added missing files.">
       <created>1572902804406</created>
@@ -266,32 +276,39 @@
       <option name="project" value="LOCAL" />
       <updated>1572910662106</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added Giphe Results">
+      <created>1572913351631</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1572913351631</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27080000" />
+    <option name="totallyTimeSpent" value="27614000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49827588" visible="true" weight="0.25679544" />
-      <window_info id="Structure" order="1" sideWeight="0.5017241" side_tool="true" visible="true" weight="0.25679544" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.495283" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" sideWeight="0.504717" side_tool="true" visible="true" weight="0.26037195" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49570817" weight="0.42409638" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49499285" visible="true" weight="0.42391303" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49642345" visible="true" weight="0.30120483" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49570817" weight="0.33831522" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Inspection Results" order="10" sideWeight="0.4985694" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5035765" side_tool="true" visible="true" weight="0.30120483" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50500715" side_tool="true" visible="true" weight="0.42391303" />
       <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49928468" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -313,10 +330,11 @@
     <MESSAGE value="Comment Updated" />
     <MESSAGE value="Added Results Folder" />
     <MESSAGE value="Added Results PDF Images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Results PDF Images" />
+    <MESSAGE value="Added Giphe Results" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Giphe Results" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/7200Assignment$Question1.coverage" NAME="Question1 Coverage Results" MODIFIED="1572832395531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/7200Assignment$Question1.coverage" NAME="Question1 Coverage Results" MODIFIED="1575971623636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/allPosts_metadata.tsv" />
@@ -334,15 +352,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/allPosts.tsv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/edges.tsv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/askerAnswerer.tsv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/allPosts.tsv" />
+    <entry file="file://$PROJECT_DIR$/edges.tsv" />
+    <entry file="file://$PROJECT_DIR$/askerAnswerer.tsv" />
     <entry file="file://$PROJECT_DIR$/data/asker-answerer-giant.tsv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -360,6 +372,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Question1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="73" column="24" lean-forward="true" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/RCommands/720 Assignment1 .R">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -368,14 +387,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/allPosts.tsv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Question1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="27" />
-        </state>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

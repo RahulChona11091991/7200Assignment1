@@ -14,7 +14,7 @@ with open ('./allPosts-metadata.tsv', 'w+') as output:
 
 # Fetch Questions and answers
 for index in range(10):
-    url = 'https://api.stackexchange.com//2.2/questions?page={}&pagesize=100&order=desc&sort=activity&tagged=python&site=stackoverflow&filter=!9Z(-wsa)x'.format(index+1)
+    url = 'https://api.stackexchange.com//2.2/questions?page={}&pagesize=100&fromdate=1514764800&todate=1569801600&order=desc&sort=activity&tagged=python&site=stackoverflow&filter=!BHrIhNpdLSrQDA*mgWaaqI0fLxig0y'.format(index+1)
 
     print('URL: {}'.format(url))
     requestObj = requests.get(url = url)
@@ -71,7 +71,7 @@ for index in range(10):
             is_answered = 'yes'
 
         question_body = i2['title']
-        question_body = str(i2['title']).replace('\t', ' ')
+        question_body = i2['title'].encode('utf-8').replace('\t', ' ')
         question_body = question_body.replace('\n', '.')
 
         with open('./allPosts.tsv', 'a+') as output:
