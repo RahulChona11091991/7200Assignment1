@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c149376-0b8f-4a90-9fa4-2c5e9e4e26e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Question1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Question1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="137" column="57" selection-start-line="137" selection-start-column="57" selection-end-line="137" selection-end-column="57" />
-              <folding>
-                <element signature="e#1452#3885#0" />
-              </folding>
+            <state relative-caret-position="189">
+              <caret line="142" column="40" lean-forward="true" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -55,6 +51,7 @@
     <findStrings>
       <find>allPosts</find>
       <find>edge</find>
+      <find>askerAnswerer</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -199,7 +196,7 @@
       <workItem from="1572821960109" duration="7847000" />
       <workItem from="1572894027886" duration="5819000" />
       <workItem from="1575971314339" duration="1083000" />
-      <workItem from="1576091273071" duration="4840000" />
+      <workItem from="1576091273071" duration="6351000" />
     </task>
     <task id="LOCAL-00001" summary="Added missing files.">
       <created>1572902804406</created>
@@ -292,22 +289,29 @@
       <option name="project" value="LOCAL" />
       <updated>1575971819365</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added Code to create tsv files.">
+      <created>1576096933818</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1576096933818</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33231000" />
+    <option name="totallyTimeSpent" value="34742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7456446" visible="true" weight="0.2639485" />
-      <window_info id="Structure" order="1" sideWeight="0.2543554" side_tool="true" visible="true" weight="0.2639485" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8348416" visible="true" weight="0.2639485" />
+      <window_info id="Structure" order="1" sideWeight="0.16515838" side_tool="true" visible="true" weight="0.2639485" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49213162" visible="true" weight="0.6100544" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48640916" visible="true" weight="0.39945653" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49713877" weight="0.39945653" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,7 +321,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Inspection Results" order="10" sideWeight="0.4985694" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5078684" side_tool="true" visible="true" weight="0.6100544" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5135909" side_tool="true" visible="true" weight="0.39945653" />
       <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49928468" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -341,21 +345,22 @@
     <MESSAGE value="Added Results PDF Images" />
     <MESSAGE value="Added Giphe Results" />
     <MESSAGE value="Updated StackOverflow API for adding Date filter to get better data." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated StackOverflow API for adding Date filter to get better data." />
+    <MESSAGE value="Added Code to create tsv files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Code to create tsv files." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Question1.py</url>
-          <line>134</line>
+          <line>136</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/7200Assignment$Question1.coverage" NAME="Question1 Coverage Results" MODIFIED="1576096777097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/7200Assignment$Question1.coverage" NAME="Question1 Coverage Results" MODIFIED="1576099776491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/allPosts_metadata.tsv" />
@@ -395,11 +400,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Question1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="137" column="57" selection-start-line="137" selection-start-column="57" selection-end-line="137" selection-end-column="57" />
-          <folding>
-            <element signature="e#1452#3885#0" />
-          </folding>
+        <state relative-caret-position="189">
+          <caret line="142" column="40" lean-forward="true" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
         </state>
       </provider>
     </entry>
