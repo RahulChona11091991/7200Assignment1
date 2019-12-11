@@ -20,11 +20,11 @@ with open ('./CBEN.tsv', 'w+') as output:
     output.write('nonBestAnswererId\tbestAnswererId\tquestionId\tbestAnswerId\tmaxUpvoteCount\n')
 
 with open ('./VBEN.tsv', 'w+') as output:
-    output.write('nonBestAnswererId\tbestAnswererId\tanswerersEdgeWeight\tquestionId\tbestAnswerId\tmaxUpvoteCount\n')
-
+    # output.write('nonBestAnswererId\tbestAnswererId\tanswerersEdgeWeight\tquestionId\tbestAnswerId\tmaxUpvoteCount\n')
+    output.write('nonBestAnswererId\tbestAnswererId\tweight\tquestionId\tbestAnswerId\tmaxUpvoteCount\n')
 with open ('./VBEN2.tsv', 'w+') as output:
     # output.write('askerId\tanswererId\taskerAnswererEdgeWeight\tnonBestAnswererId\tbestAnswererId\taskerAnswererEdgeWeight\tquestionId\tbestAnswerId\tmaxUpvoteCount\n')
-    output.write('askerId\tanswererId\taskerAnswererEdgeWeight\tnonBestAnswererId\tbestAnswererId\tquestionId\tbestAnswerId\tmaxUpvoteCount\n')
+    output.write('askerId\tanswererId\tweight\tnonBestAnswererId\tbestAnswererId\tquestionId\tbestAnswerId\tmaxUpvoteCount\n')
 
 #Assignment 2 - Complete
 
