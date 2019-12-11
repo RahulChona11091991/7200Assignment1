@@ -5,9 +5,9 @@ import numpy as np
 # write file header
 with open('./allPosts.tsv', 'w+') as output:
     output.write('poster_user_id\tpost_type\tquestion_id\tis_answered\tquestion_title\tanswer_count\tview_count\tanswer_id\tanswer_creation_date\tis_accepted\tquestion_creation_date\n')
-with open ('./askerAnswerer.tsv', 'w+') as output:
-    #output.write('asker_uid\tanswerer_uid\tquestion_id\t\n')
-    output.write('')
+with open ('./ARN.tsv', 'w+') as output:
+    output.write('asker_uid\tanswerer_uid\tquestion_id\t\n')
+    # output.write('')
 with open ('./allPosts-metadata.tsv', 'w+') as output:
     output.write('user_id\tquestion_id\tpost_type\tanswer_id\n')
 
@@ -23,7 +23,8 @@ with open ('./VBEN.tsv', 'w+') as output:
     output.write('nonBestAnswererId\tbestAnswererId\tanswerersEdgeWeight\tquestionId\tbestAnswerId\tmaxUpvoteCount\n')
 
 with open ('./VBEN2.tsv', 'w+') as output:
-    output.write('askerId\tanswererId\taskerAnswererEdgeWeight\tnonBestAnswererId\tbestAnswererId\taskerAnswererEdgeWeight\tquestionId\tbestAnswerId\tmaxUpvoteCount\n')
+    # output.write('askerId\tanswererId\taskerAnswererEdgeWeight\tnonBestAnswererId\tbestAnswererId\taskerAnswererEdgeWeight\tquestionId\tbestAnswerId\tmaxUpvoteCount\n')
+    output.write('askerId\tanswererId\taskerAnswererEdgeWeight\tnonBestAnswererId\tbestAnswererId\tquestionId\tbestAnswerId\tmaxUpvoteCount\n')
 
 #Assignment 2 - Complete
 
@@ -56,7 +57,7 @@ for index in range(5):
                     bestAnswererId = answerItem['owner']['user_id'] if answerItem['owner']['user_type'] == 'registered' else (answerItem['owner']['display_name'] + str(i2['question_id']))
 
 
-                with open('./askerAnswerer.tsv', 'a+') as output:
+                with open('./ARN.tsv', 'a+') as output:
                     output.write('{}\t{}\t{}\n'.format(
 
                         i2['owner']['user_id'] if i2['owner']['user_type'] == 'registered' else
@@ -94,7 +95,8 @@ for index in range(5):
                         is_accepted,
                         'na', # 'na' represents not applicable.
                     ))
-            if maxUpvoteCount > 0:
+            # Pruning - If number of upvotes are greater than 4 then save the data
+            if maxUpvoteCount > 4:
                 with open('./ABAN.tsv', 'a+') as output:
                     output.write('{}\t{}\t{}\t{}\t{}\n'.format(
                         askerId,
@@ -135,15 +137,15 @@ for index in range(5):
                     upvoteDiffBtwQuestionAnswer = answerVoteCount - questionVoteCount
 
                     if upvoteDiffBtwQuestionAnswer > 0:
-                        print upvoteDiffBtwQuestionAnswer
+                        # print upvoteDiffBtwQuestionAnswer
                         with open('./VBEN2.tsv', 'a+') as output:
-                            output.write('{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n'.format(
+                            output.write('{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n'.format(
                                 askerId,
                                 answererId,
                                 upvoteDiffBtwQuestionAnswer,
                                 nonBestAnswererId,
                                 bestAnswererId,
-                                edgeWeight,
+                                # edgeWeight,
                                 questionId,
                                 bestAnswerId,
                                 maxUpvoteCount
