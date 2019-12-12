@@ -89,7 +89,7 @@ for index in range(9):
                         'na', # 'na' represents not applicable.
                     ))
             # Pruning - If number of upvotes are greater than 4 then save the data
-            if maxUpvoteCount > 4:
+            if maxUpvoteCount > 0:
 
                 with open('./data/1-ARN.tsv', 'a+') as output:
                     output.write('{}\t{}\n'.format(

@@ -85,7 +85,7 @@ poster_user_id	post_type	question_id	is_answered	question_title	answer_count	vie
 9696680	question	50083227	False	tensorflow lite: error when converting retrained graph model to lite format	2	345	0	0	na	1524974075
 2060205	answer	48432300	na	na	na	na	55870600	1556292024	no	na
 38483	answer	48432300	na	na	na	na	57636651	1566638523	no	na
-9264339	question	48432300	True	Using keras tokenizer for new words not in training set	2	3003	0	0	na	1516830923
+9264339	question	48432300	True	Using keras tokenizer for new words not in training set	2	3004	0	0	na	1516830923
 4320693	answer	49702179	na	na	na	na	49702423	1523058818	no	na
 768600	answer	49702179	na	na	na	na	49742726	1523313641	yes	na
 6438779	answer	49702179	na	na	na	na	50127503	1525237934	no	na
@@ -97,7 +97,7 @@ poster_user_id	post_type	question_id	is_answered	question_title	answer_count	vie
 5196692	answer	49433936	na	na	na	na	56037200	1557306496	no	na
 5884955	answer	49433936	na	na	na	na	56773737	1561554993	no	na
 3867406	answer	49433936	na	na	na	na	57116138	1563552526	no	na
-604734	question	49433936	True	How to initialize weights in PyTorch?	7	84309	0	0	na	1521736482
+604734	question	49433936	True	How to initialize weights in PyTorch?	7	84313	0	0	na	1521736482
 9582060	answer	49311929	na	na	na	na	49598461	1522588423	no	na
 2204803	answer	49311929	na	na	na	na	51004211	1529780315	no	na
 2668545	answer	49311929	na	na	na	na	52980903	1540437965	yes	na
@@ -129,7 +129,7 @@ faraz faraz50007085	answer	50007085	na	na	na	na	57230515	1564216486	no	na
 1670642	answer	49790025	na	na	na	na	49854222	1523871860	no	na
 5008606	answer	49790025	na	na	na	na	49856665	1523879543	no	na
 11051372	answer	49790025	na	na	na	na	56876674	1562181359	no	na
-9147788	question	49790025	True	How to reconnect to the ongoing process on GoogleColab	3	1696	0	0	na	1523516532
+9147788	question	49790025	True	How to reconnect to the ongoing process on GoogleColab	3	1697	0	0	na	1523516532
 8471178	question	49097124	False	How to train LSTM model using data of variable timestep in Keras?	0	502	0	0	na	1520178096
 1313897	answer	49398255	na	na	na	na	49546835	1522288463	no	na
 5302905	answer	49398255	na	na	na	na	50140036	1525280815	yes	na
@@ -232,7 +232,7 @@ skitzcoder50005092	answer	50005092	na	na	na	na	54639931	1549923069	no	na
 9658218	question	49876508	True	Using adversarial loss in GANEstimator	2	231	0	0	na	1523963330
 9280994	answer	49501538	na	na	na	na	49502288	1522107665	yes	na
 7770781	answer	49501538	na	na	na	na	49520773	1522178057	no	na
-2706419	question	49501538	True	Custom weight initialization tensorflow tf.layers.dense	2	9316	0	0	na	1522102741
+2706419	question	49501538	True	Custom weight initialization tensorflow tf.layers.dense	2	9317	0	0	na	1522102741
 5495381	answer	50081333	na	na	na	na	54607337	1549723701	no	na
 9715657	question	50081333	True	ValueError: The last dimension of the inputs to `Dense` should be defined. Found `None`	1	4624	0	0	na	1524951712
 4921258	answer	50213274	na	na	na	na	50213894	1525694965	yes	na
@@ -259,7 +259,7 @@ skitzcoder50005092	answer	50005092	na	na	na	na	54639931	1549923069	no	na
 8624508	answer	48482787	na	na	na	na	48483811	1517121124	no	na
 4254425	answer	48482787	na	na	na	na	52392869	1537296525	no	na
 2701950	answer	48482787	na	na	na	na	54260202	1547839025	no	na
-2956066	question	48482787	True	PyTorch memory model: &quot;torch.from_numpy()&quot; vs &quot;torch.Tensor()&quot;	3	14962	0	0	na	1517108851
+2956066	question	48482787	True	PyTorch memory model: &quot;torch.from_numpy()&quot; vs &quot;torch.Tensor()&quot;	3	14963	0	0	na	1517108851
 2956066	answer	49299609	na	na	na	na	49309258	1521148189	no	na
 5397987	answer	49299609	na	na	na	na	49598792	1522591085	no	na
 6193383	answer	49299609	na	na	na	na	54236136	1547728659	no	na
@@ -267,7 +267,7 @@ skitzcoder50005092	answer	50005092	na	na	na	na	54639931	1549923069	no	na
 200669	answer	49005892	na	na	na	na	54206401	1547584353	no	na
 5722540	question	49005892	True	Keras: Confusion matrix at every epoch	1	1090	0	0	na	1519725591
 4728650	answer	48274929	na	na	na	na	48278089	1516095333	yes	na
-4728650	question	48274929	True	Pytorch - RuntimeError: Trying to backward through the graph a second time, but the buffers have already been freed	1	10242	0	0	na	1516082266
+4728650	question	48274929	True	Pytorch - RuntimeError: Trying to backward through the graph a second time, but the buffers have already been freed	1	10243	0	0	na	1516082266
 3796822	answer	49589088	na	na	na	na	54098480	1546975712	no	na
 9578978	question	49589088	False	How to Share Object in multiprocesing, python	1	52	0	0	na	1522508330
 5516760	answer	48547660	na	na	na	na	48579175	1517562313	no	na
@@ -346,7 +346,7 @@ skitzcoder50005092	answer	50005092	na	na	na	na	54639931	1549923069	no	na
 2961270	question	48385376	True	Multi-label prediction using DNN	1	501	0	0	na	1516636036
 6296759	answer	49770671	na	na	na	na	49772767	1523442734	yes	na
 9547662	answer	49770671	na	na	na	na	49772904	1523443139	no	na
-9547662	question	49770671	True	No module named &#39;testCases_v4&#39;	2	1004	0	0	na	1523436783
+9547662	question	49770671	True	No module named &#39;testCases_v4&#39;	2	1005	0	0	na	1523436783
 2735009	question	48119212	False	How to one hot encode a variable with 3k categories without a MemoryError	0	338	0	0	na	1515176499
 6937913	answer	48385265	na	na	na	na	48399165	1516702543	yes	na
 818663	question	48385265	True	NASNet-A fine tuning poor validation accuracy	1	1195	0	0	na	1516635720
@@ -454,7 +454,7 @@ skitzcoder50005092	answer	50005092	na	na	na	na	54639931	1549923069	no	na
 5974433	answer	48309322	na	na	na	na	48310249	1516224375	yes	na
 349130	answer	48309322	na	na	na	na	48310260	1516224405	no	na
 9915495	answer	48309322	na	na	na	na	51331862	1531510866	no	na
-5171213	question	48309322	True	Keras Multiply() layer in functional API	3	10392	0	0	na	1516220301
+5171213	question	48309322	True	Keras Multiply() layer in functional API	3	10393	0	0	na	1516220301
 10077325	answer	50752787	na	na	na	na	51330232	1531503208	yes	na
 9354853	question	50752787	True	ValueError: as_list() is not defined on an unknown TensorShape	1	1145	0	0	na	1528427396
 9572188	answer	50104344	na	na	na	na	51252920	1531165167	no	na
@@ -1002,7 +1002,7 @@ Martijn Pieters50542683	answer	50542683	na	na	na	na	50542728	1527337464	yes	na
 9693971	question	50011969	True	Tensorflow Estimator API Input Tensor Names	1	662	0	0	na	1524612064
 5797699	answer	49973379	na	na	na	na	49974183	1524462657	no	na
 5668710	answer	49973379	na	na	na	na	49977036	1524473908	yes	na
-423977	question	49973379	True	How to get associated image name when using predict_generator() in keras	2	1842	0	0	na	1524457249
+423977	question	49973379	True	How to get associated image name when using predict_generator() in keras	2	1843	0	0	na	1524457249
 992489	answer	49935491	na	na	na	na	50009358	1524597538	no	na
 9300039	question	49935491	False	Is there a way to nullify a specific feature in test set while evaluating a tensorflow model?	1	34	0	0	na	1524206231
 5419094	question	50002526	False	Python CNTK how to replace input without clone	0	35	0	0	na	1524575289
@@ -1146,7 +1146,7 @@ user959011349991300	answer	49991300	na	na	na	na	49991454	1524527198	no	na
 712995	answer	49739356	na	na	na	na	49758312	1523376543	yes	na
 6422477	question	49739356	True	Keras: convolutional layer for 1D input	1	1590	0	0	na	1523298355
 2097240	answer	49759946	na	na	na	na	49761586	1523388730	no	na
-9626250	question	49759946	False	Regarding Text Autoencoders in KERAS for topic modeling	1	825	0	0	na	1523382229
+9626250	question	49759946	False	Regarding Text Autoencoders in KERAS for topic modeling	1	826	0	0	na	1523382229
 5904928	question	49761175	False	tf.nn.embedding_lookup taking too much time	0	96	0	0	na	1523387030
 4790871	answer	49757054	na	na	na	na	49760766	1523385417	yes	na
 7653099	question	49757054	True	How to merge two trained incpton_v3 models with difrent number of class for multiple output?	1	25	0	0	na	1523372651
@@ -1404,7 +1404,7 @@ user942761349386362	answer	49386362	na	na	na	na	49443505	1521785916	yes	na
 2414957	answer	49184241	na	na	na	na	49184744	1520555123	no	na
 2414957	question	49184241	False	File &quot;train.py&quot;, line 35, in clip_gradient modulenorm = p.grad.data.norm()	1	275	0	0	na	1520551860
 712995	answer	49177169	na	na	na	na	49178165	1520527257	yes	na
-7759152	question	49177169	True	TensorFlow: TypeError: Using a `tf.Tensor` as a Python `bool` is not allowed	1	10183	0	0	na	1520524205
+7759152	question	49177169	True	TensorFlow: TypeError: Using a `tf.Tensor` as a Python `bool` is not allowed	1	10184	0	0	na	1520524205
 5021648	answer	49179549	na	na	na	na	49179773	1520532612	no	na
 9463704	question	49179549	False	Label Encoder is not creating dummy variables	1	96	0	0	na	1520531832
 5361479	answer	49160481	na	na	na	na	49160613	1520454326	yes	na
@@ -1500,7 +1500,7 @@ user678885549013181	question	49013181	False	Object Detection with Bounding Boxes
 1714410	question	48802603	True	Getting deep learning tracker (GOTURN) to run opencv python	1	1990	0	0	na	1518682379
 2832960	answer	48946706	na	na	na	na	48955764	1519417638	yes	na
 3441975	answer	48946706	na	na	na	na	48981087	1519616280	no	na
-7091449	question	48946706	True	Caffe execution	2	83	0	0	na	1519384859
+7091449	question	48946706	True	Caffe execution	2	84	0	0	na	1519384859
 768337	answer	48967068	na	na	na	na	48967249	1519503924	yes	na
 9347341	question	48967068	True	Loss become Nan suddenly after some iterations	1	753	0	0	na	1519502659
 8753544	question	48955015	False	TF Learn &amp; TF: Which output node to use when freezing a graph? - Python	0	260	0	0	na	1519414412
@@ -1789,7 +1789,7 @@ user491164848686528	question	48686528	True	How to properly set is_training when 
 9207437	question	48220660	True	Using tensorflow or keras to build a NN model by feeding &#39;pairwise&#39; samples	1	205	0	0	na	1515738132
 2097240	answer	48231233	na	na	na	na	48231802	1515780346	yes	na
 5297969	question	48231233	True	What&#39;s the input_size for the RNN Model in Keras	1	185	0	0	na	1515777991
-8849085	question	48230786	False	Tensorflow object detection on MobileNet, training results oscillate	0	1285	0	0	na	1515776347
+8849085	question	48230786	False	Tensorflow object detection on MobileNet, training results oscillate	0	1286	0	0	na	1515776347
 7501629	answer	48101886	na	na	na	na	48110990	1515145797	no	na
 4128120	answer	48101886	na	na	na	na	48175309	1515525852	no	na
 8888903	question	48101886	False	error PlaceholderWithDefault when converting Tensorflow model to CoreML model	2	312	0	0	na	1515092563
