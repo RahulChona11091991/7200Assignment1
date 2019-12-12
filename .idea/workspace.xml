@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c149376-0b8f-4a90-9fa4-2c5e9e4e26e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ABAN.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ARN.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CBEN.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VBEN.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VBEN2.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allPosts-metadata.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allPosts.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/ABAN.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/ARN.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/CBEN.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Data.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/VBEN.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/VBEN2.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Question1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/allPosts-metadata.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/allPosts-metadata.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/allPosts.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/allPosts.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/askerAnswerer.tsv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Question1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="-62">
+              <caret line="149" column="32" lean-forward="true" selection-start-line="149" selection-start-column="32" selection-end-line="149" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -41,18 +24,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/RCommands/720 Assignment1 .R">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+            <state relative-caret-position="47">
+              <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/allPosts.tsv">
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-          <provider selected="true" editor-type-id="csv-text-editor" />
         </entry>
       </file>
     </leaf>
@@ -219,7 +194,7 @@
       <workItem from="1572821960109" duration="7847000" />
       <workItem from="1572894027886" duration="5819000" />
       <workItem from="1575971314339" duration="1083000" />
-      <workItem from="1576091273071" duration="7275000" />
+      <workItem from="1576091273071" duration="8803000" />
     </task>
     <task id="LOCAL-00001" summary="Added missing files.">
       <created>1572902804406</created>
@@ -333,22 +308,29 @@
       <option name="project" value="LOCAL" />
       <updated>1576099864033</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Updated all File Headers.">
+      <created>1576105083842</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1576105083842</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35666000" />
+    <option name="totallyTimeSpent" value="37194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.84732825" visible="true" weight="0.2639485" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.84732825" visible="true" weight="0.2639485" />
       <window_info id="Structure" order="1" sideWeight="0.15267175" side_tool="true" visible="true" weight="0.2639485" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48569384" visible="true" weight="0.28804347" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48569384" visible="true" weight="0.28804347" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49713877" weight="0.39945653" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -384,10 +366,11 @@
     <MESSAGE value="Updated StackOverflow API for adding Date filter to get better data." />
     <MESSAGE value="Added Code to create tsv files." />
     <MESSAGE value="Pruning Done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Pruning Done." />
+    <MESSAGE value="Updated all File Headers." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated all File Headers." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/7200Assignment$Question1.coverage" NAME="Question1 Coverage Results" MODIFIED="1576104633889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/7200Assignment$Question1.coverage" NAME="Question1 Coverage Results" MODIFIED="1576114967952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/allPosts_metadata.tsv" />
@@ -425,26 +408,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Question1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/RCommands/720 Assignment1 .R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/allPosts.tsv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/RCommands/720 Assignment1 .R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Question1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="149" column="32" lean-forward="true" selection-start-line="149" selection-start-column="32" selection-end-line="149" selection-end-column="32" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

@@ -1,7 +1,40 @@
 poster_user_id	post_type	question_id	is_answered	question_title	answer_count	view_count	answer_id	answer_creation_date	is_accepted	question_creation_date
+4046632	answer	53866104	na	na	na	na	53866322	1545300036	yes	na
+11265198	answer	53866104	na	na	na	na	55373557	1553678267	no	na
+1643542	answer	53866104	na	na	na	na	56354995	1559114137	no	na
+2546233	answer	53866104	na	na	na	na	58995288	1574429405	no	na
+12521728	answer	53866104	na	na	na	na	59296516	1576114801	no	na
+5762576	question	53866104	True	pyAudio failed to install : Windows 10	5	11133	0	0	na	1545299365
+12426666	answer	56649634	na	na	na	na	59282120	1576055112	no	na
+3590067	question	56649634	False	Pysal: how to do cross validation with pysal regression models?	1	87	0	0	na	1560862369
+3927683	answer	57013625	na	na	na	na	59296344	1576113077	no	na
+11777554	question	57013625	True	Why is my JupyterLab notebook code console not displaying &#39;command history&#39; as it should?	1	68	0	0	na	1562962903
+4949165	answer	57404906	na	na	na	na	57407131	1565248539	no	na
+4510614	answer	57404906	na	na	na	na	58966056	1574300986	no	na
+4949165	question	57404906	True	ImportError: No module named &#39;distutils&#39; in pandas pyinstaller	2	616	0	0	na	1565235883
+9508635	answer	54355958	na	na	na	na	59296128	1576111191	no	na
+10964329	question	54355958	False	Cannot serve local static CSS file using python package web.py only HTML displays	1	93	0	0	na	1548367235
+4427837	question	54607514	False	Updating Pandas dataframe based on condition	0	58	0	0	na	1549724787
+174652	answer	50603904	na	na	na	na	50645010	1527861263	yes	na
+2883254	question	50603904	True	Execute code on startup in Airflow	1	305	0	0	na	1527680905
+72911	answer	52967976	na	na	na	na	52968095	1540381297	yes	na
+3705840	answer	52967976	na	na	na	na	56067973	1557438039	no	na
+2659575	answer	52967976	na	na	na	na	59295611	1576106720	no	na
+1084813	question	52967976	True	Can pytest run tests within a test class?	3	376	0	0	na	1540380954
+5446749	answer	48152674	na	na	na	na	48152675	1515423013	yes	na
+2956066	answer	48152674	na	na	na	na	48178857	1515545892	no	na
+2215035	answer	48152674	na	na	na	na	48200415	1515649161	no	na
+8944702	answer	48152674	na	na	na	na	53367228	1542591398	no	na
+7483494	answer	48152674	na	na	na	na	53374933	1542631488	no	na
+2701950	answer	48152674	na	na	na	na	54244153	1547758590	no	na
+2994854	answer	48152674	na	na	na	na	55130919	1552426181	no	na
+5884955	answer	48152674	na	na	na	na	56975325	1562777544	no	na
+1150683	answer	48152674	na	na	na	na	58266829	1570440585	no	na
+3503565	answer	48152674	na	na	na	na	59295489	1576105680	no	na
+5446749	question	48152674	True	How to check if pytorch is using the GPU?	10	123073	0	0	na	1515423013
 9958942	answer	55921585	na	na	na	na	55922636	1556632882	no	na
 789671	answer	55921585	na	na	na	na	55922754	1556633270	no	na
-8897793	question	55921585	True	line of code using zip_longest in itertools module for Python	2	79	0	0	na	1556629564
+8897793	question	55921585	True	line of code using zip_longest in itertools module for Python	2	80	0	0	na	1556629564
 7509065	answer	56573115	na	na	na	na	56573141	1560397850	yes	na
 4504945	question	56573115	True	How to remove caret-at (^@) from a string with Python?	1	84	0	0	na	1560397613
 7681248	answer	53892890	na	na	na	na	54004446	1546423861	yes	na
@@ -10,57 +43,57 @@ poster_user_id	post_type	question_id	is_answered	question_title	answer_count	vie
 6258583	question	57930793	False	Locust not supporting `--exit-code-on-error` argument?	1	34	0	0	na	1568412061
 194586	answer	55962678	na	na	na	na	55962812	1556853036	no	na
 4652358	answer	55962678	na	na	na	na	58905678	1574028518	no	na
-7660194	question	55962678	True	Installing chatterbot but getting &quot;ERROR: Could not build wheels for spacy which use PEP 517 and cannot be installed directly&quot;	2	8173	0	0	na	1556851724
+7660194	question	55962678	True	Installing chatterbot but getting &quot;ERROR: Could not build wheels for spacy which use PEP 517 and cannot be installed directly&quot;	2	8183	0	0	na	1556851724
 532312	answer	52163823	na	na	na	na	52163928	1536056023	yes	na
 10283066	answer	52163823	na	na	na	na	52164006	1536056272	no	na
 10314210	question	52163823	True	Find duplicate lines python	2	163	0	0	na	1536055603
 10553976	answer	53269219	na	na	na	na	53269291	1542052953	no	na
 8394915	answer	53269219	na	na	na	na	53276536	1542096816	no	na
 1771778	answer	53269219	na	na	na	na	59293995	1576098018	no	na
-8099378	question	53269219	True	overlapping python stacked bar graphs	3	1403	0	0	na	1542052581
+8099378	question	53269219	True	overlapping python stacked bar graphs	3	1404	0	0	na	1542052581
 3821302	question	57896040	False	Build Microservices with Python (Microservice chassis Pattern)	0	112	0	0	na	1568232109
 10133797	answer	48714407	na	na	na	na	58868383	1573776151	no	na
-1581390	question	48714407	True	RNN Regularization: Which Component to Regularize?	1	3013	0	0	na	1518212046
+1581390	question	48714407	True	RNN Regularization: Which Component to Regularize?	1	3017	0	0	na	1518212046
 6262485	answer	55767159	na	na	na	na	59293508	1576095794	no	na
 7974205	question	55767159	False	Using an adblocker extension with the headless chrome driver using python selenium	1	284	0	0	na	1555703647
 10886420	answer	54298550	na	na	na	na	54299376	1548114665	yes	na
 3707039	answer	54298550	na	na	na	na	57481678	1565712851	no	na
 1306351	answer	54298550	na	na	na	na	59293117	1576094111	no	na
-4624466	question	54298550	True	AttributeError when using ColumnTransformer into a pipeline	3	1948	0	0	na	1548109216
+4624466	question	54298550	True	AttributeError when using ColumnTransformer into a pipeline	3	1950	0	0	na	1548109216
 3288890	answer	58003084	na	na	na	na	58005776	1568877790	no	na
 6301269	answer	58003084	na	na	na	na	59292728	1576092422	no	na
-2771169	question	58003084	True	Neo4j Docker Connection failure	2	109	0	0	na	1568861733
+2771169	question	58003084	True	Neo4j Docker Connection failure	2	110	0	0	na	1568861733
 10548514	answer	55799601	na	na	na	na	55799793	1555960239	yes	na
 2119941	answer	55799601	na	na	na	na	59292632	1576091935	no	na
-11197940	question	55799601	True	Problem with GMM library from sklear.mixture?	2	1454	0	0	na	1555959342
+11197940	question	55799601	True	Problem with GMM library from sklear.mixture?	2	1455	0	0	na	1555959342
 3279716	answer	53217654	na	na	na	na	53217897	1541721317	no	na
-5130078	question	53217654	False	How to get interactive bokeh in Jupyter notebook	1	4598	0	0	na	1541719402
+5130078	question	53217654	False	How to get interactive bokeh in Jupyter notebook	1	4600	0	0	na	1541719402
 6669475	answer	55213990	na	na	na	na	59292473	1576091279	no	na
 10905839	question	55213990	False	How change unicode language of dumpdata in .json format	1	74	0	0	na	1552876142
 438386	answer	54833296	na	na	na	na	54841275	1550922723	no	na
 5875007	answer	54833296	na	na	na	na	55497917	1554302578	no	na
 9876427	answer	54833296	na	na	na	na	56446125	1559659105	yes	na
 7513730	answer	54833296	na	na	na	na	59292436	1576091149	no	na
-11103122	question	54833296	True	Make Spyder use a dark theme for the entire interface	4	3792	0	0	na	1550861023
+11103122	question	54833296	True	Make Spyder use a dark theme for the entire interface	4	3794	0	0	na	1550861023
 11599100	answer	57102512	na	na	na	na	59275977	1576015072	no	na
 11804897	question	57102512	False	Django formset dynamic cant add forms	1	48	0	0	na	1563483329
 390363	answer	54551316	na	na	na	na	59292083	1576089482	no	na
 11022022	question	54551316	False	Keras extending embedding layer input	1	110	0	0	na	1549448718
 4683950	answer	48569166	na	na	na	na	48569627	1517510256	no	na
 6287308	answer	48569166	na	na	na	na	48569899	1517511356	yes	na
-8791503	question	48569166	True	multiple if else conditions in pandas dataframe and derive multiple columns	2	16511	0	0	na	1517508500
+8791503	question	48569166	True	multiple if else conditions in pandas dataframe and derive multiple columns	2	16515	0	0	na	1517508500
 2621625	answer	52341646	na	na	na	na	52447329	1537545353	yes	na
-9738997	question	52341646	True	pytest using Makefile and make command	1	871	0	0	na	1536987010
+9738997	question	52341646	True	pytest using Makefile and make command	1	873	0	0	na	1536987010
 3064538	answer	58015012	na	na	na	na	58015013	1568909120	no	na
 3064538	question	58015012	True	Ignore UTF-8 decoding errors in CSV	1	44	0	0	na	1568909120
 11049364	answer	54748710	na	na	na	na	54749224	1550499411	no	na
 1064544	answer	54748710	na	na	na	na	55921074	1556627633	no	na
 6234141	answer	54748710	na	na	na	na	59291393	1576086446	no	na
-42636	question	54748710	True	OpenApi 3 request validation with Python	3	1413	0	0	na	1550497585
+42636	question	54748710	True	OpenApi 3 request validation with Python	3	1415	0	0	na	1550497585
 8431101	answer	53422947	na	na	na	na	53422979	1542852843	no	na
 10641888	question	53422947	True	ValueError: could not convert string to float: &#39;[0.0267469, 0.0272395, 0.0268747]&#39;	1	38	0	0	na	1542852552
 9361555	answer	57691646	na	na	na	na	58942775	1574197503	no	na
-4556546	question	57691646	False	AWS CDK, creating an alias record for an existing hosted zone in Route53	1	231	0	0	na	1566992656
+4556546	question	57691646	False	AWS CDK, creating an alias record for an existing hosted zone in Route53	1	233	0	0	na	1566992656
 7505383	answer	54360549	na	na	na	na	54360700	1548401030	no	na
 9209546	answer	54360549	na	na	na	na	54363480	1548412429	yes	na
 5447280	question	54360549	True	Dask item assignment. Cannot use loc for item assignment	2	611	0	0	na	1548400284
@@ -69,7 +102,7 @@ poster_user_id	post_type	question_id	is_answered	question_title	answer_count	vie
 6631367	answer	55581941	na	na	na	na	57895127	1568227564	no	na
 5739514	answer	55581941	na	na	na	na	58514417	1571795908	no	na
 6779212	answer	55581941	na	na	na	na	59290911	1576084580	no	na
-8607740	question	55581941	True	getting error when installing psycopg2==2.8.1	5	3903	0	0	na	1554758532
+8607740	question	55581941	True	getting error when installing psycopg2==2.8.1	5	3907	0	0	na	1554758532
 2696165	answer	53423004	na	na	na	na	53423084	1542853878	yes	na
 10688647	question	53423004	True	NoReverseMatch at /blog/2018/	1	27	0	0	na	1542853138
 4388278	answer	54090982	na	na	na	na	59289889	1576080720	no	na
@@ -87,7 +120,7 @@ poster_user_id	post_type	question_id	is_answered	question_title	answer_count	vie
 5193614	question	51519178	True	Pandas DataFrame.hist() doesn&#39;t work	2	923	0	0	na	1532522547
 704848	answer	50098025	na	na	na	na	50098390	1525083294	no	na
 9209546	answer	50098025	na	na	na	na	50098393	1525083315	yes	na
-8952565	question	50098025	True	Mapping ranges of values in pandas dataframe	2	8310	0	0	na	1525081935
+8952565	question	50098025	True	Mapping ranges of values in pandas dataframe	2	8313	0	0	na	1525081935
 7429447	answer	52534658	na	na	na	na	52535654	1538046747	yes	na
 7838574	answer	52534658	na	na	na	na	52637332	1538612842	no	na
 6916510	answer	52534658	na	na	na	na	53198328	1541627193	no	na
@@ -96,17 +129,17 @@ poster_user_id	post_type	question_id	is_answered	question_title	answer_count	vie
 5711655	answer	52534658	na	na	na	na	56667946	1560948176	no	na
 5744896	answer	52534658	na	na	na	na	58937476	1574177170	no	na
 12226047	answer	52534658	na	na	na	na	59289000	1576077780	no	na
-10121921	question	52534658	True	WebDriverException: Message: invalid argument: can&#39;t kill an exited process with GeckoDriver, Selenium and Python on RaspberryPi3	8	31612	0	0	na	1538043368
+10121921	question	52534658	True	WebDriverException: Message: invalid argument: can&#39;t kill an exited process with GeckoDriver, Selenium and Python on RaspberryPi3	8	31616	0	0	na	1538043368
 2469283	answer	57319830	na	na	na	na	57331687	1564770057	no	na
 11743419	question	57319830	False	Is it possible to run openpyxl on an Android Kivy application?	1	41	0	0	na	1564719064
 7429447	answer	57633800	na	na	na	na	59288718	1576076839	no	na
-11969591	question	57633800	False	ERROR:wmi_refresher.cc(150)] Unable to add the Win32_PerfRawData_PerfDisk_PhysicalDisk enum using ChromeDriver and Chrome with Selenium through Python	1	693	0	0	na	1566600692
+11969591	question	57633800	False	ERROR:wmi_refresher.cc(150)] Unable to add the Win32_PerfRawData_PerfDisk_PhysicalDisk enum using ChromeDriver and Chrome with Selenium through Python	1	694	0	0	na	1566600692
 3824723	answer	54345667	na	na	na	na	54362051	1548407429	yes	na
 8044221	answer	54345667	na	na	na	na	54369220	1548433571	no	na
 4134683	answer	54345667	na	na	na	na	57786749	1567593839	no	na
 1970528	answer	54345667	na	na	na	na	59096876	1574980762	no	na
 4180545	answer	54345667	na	na	na	na	59288589	1576076399	no	na
-3180716	question	54345667	True	OneHotEncoder categorical_features depreciated, how to transform specific column	5	5971	0	0	na	1548329575
+3180716	question	54345667	True	OneHotEncoder categorical_features depreciated, how to transform specific column	5	5972	0	0	na	1548329575
 10668601	answer	53367783	na	na	na	na	53369974	1542612032	no	na
 10672568	question	53367783	False	how to use index to call other dataframe data	1	61	0	0	na	1542596814
 8267726	answer	53732660	na	na	na	na	53732739	1544564458	yes	na
@@ -122,7 +155,7 @@ poster_user_id	post_type	question_id	is_answered	question_title	answer_count	vie
 10065556	answer	51910899	na	na	na	na	54264107	1547872621	no	na
 10243773	question	51910899	True	How can i login in instagram with python requests	2	1487	0	0	na	1534612046
 6622587	answer	49871031	na	na	na	na	49871571	1523947687	yes	na
-3505172	question	49871031	True	why can&#39;t I get all different sized images in the video using opencv python?	1	488	0	0	na	1523945452
+3505172	question	49871031	True	why can&#39;t I get all different sized images in the video using opencv python?	1	489	0	0	na	1523945452
 5821988	answer	56274918	na	na	na	na	59286986	1576071224	no	na
 7766158	question	56274918	False	Error when importing package that have Visual C++ dependencies : invalid numeric argument &#39;/Wno-cpp&#39;	1	560	0	0	na	1558613414
 6939324	answer	55800584	na	na	na	na	55984894	1556989556	yes	na
@@ -156,7 +189,7 @@ Angel Perez57836443	answer	57836443	na	na	na	na	59285459	1576065899	no	na
 7678684	answer	48720833	na	na	na	na	55530379	1554449607	no	na
 10222665	answer	48720833	na	na	na	na	55988352	1557023392	no	na
 2994854	answer	48720833	na	na	na	na	59184387	1575492081	no	na
-5538535	question	48720833	True	Could not find a version that satisfies the requirement tensorflow	9	193501	0	0	na	1518266144
+5538535	question	48720833	True	Could not find a version that satisfies the requirement tensorflow	9	193557	0	0	na	1518266144
 2464597	answer	51070985	na	na	na	na	51071037	1530131836	yes	na
 6361531	answer	51070985	na	na	na	na	51071085	1530132080	no	na
 3185459	answer	51070985	na	na	na	na	51071181	1530132548	no	na
@@ -164,17 +197,17 @@ Angel Perez57836443	answer	57836443	na	na	na	na	59285459	1576065899	no	na
 7061045	answer	51070985	na	na	na	na	56870739	1562158859	no	na
 11792700	answer	51070985	na	na	na	na	57059702	1563287536	no	na
 11691751	answer	51070985	na	na	na	na	59284768	1576063533	no	na
-8913334	question	51070985	True	Find out the percentage of missing values in each column in the given dataset	7	15749	0	0	na	1530131590
+8913334	question	51070985	True	Find out the percentage of missing values in each column in the given dataset	7	15758	0	0	na	1530131590
 7919597	answer	49518071	na	na	na	na	49518858	1522171030	yes	na
 1982882	answer	49518071	na	na	na	na	59283971	1576060994	no	na
-9559356	question	49518071	True	openpyxl - &quot;copy/paste&quot; range of cells	2	4941	0	0	na	1522168134
+9559356	question	49518071	True	openpyxl - &quot;copy/paste&quot; range of cells	2	4943	0	0	na	1522168134
 939364	answer	57596268	na	na	na	na	59284684	1576063273	no	na
 1572164	question	57596268	False	dateparser search function returns unexpected results	1	32	0	0	na	1566407055
 5577765	answer	53400377	na	na	na	na	53400813	1542744727	yes	na
 9837133	question	53400377	True	Pygame and PyOpenGL quad texturing problem	1	178	0	0	na	1542742798
 6369347	answer	52865323	na	na	na	na	52865834	1539827653	yes	na
 11691751	answer	52865323	na	na	na	na	59284603	1576062982	no	na
-10521300	question	52865323	True	How to count missing data in each column in python?	2	2572	0	0	na	1539822482
+10521300	question	52865323	True	How to count missing data in each column in python?	2	2573	0	0	na	1539822482
 6847100	answer	56764048	na	na	na	na	59283443	1576059355	no	na
 4461300	question	56764048	False	How to train the original U-Net model with PyTorch?	1	123	0	0	na	1561513299
 8676953	answer	48046504	na	na	na	na	48062547	1514902550	no	na
@@ -184,7 +217,7 @@ Angel Perez57836443	answer	57836443	na	na	na	na	59285459	1576065899	no	na
 9963374	answer	54333896	na	na	na	na	59283707	1576060236	no	na
 9889082	question	54333896	True	Issue installing Pillow using pipenv	2	410	0	0	na	1548269681
 2069725	answer	56268145	na	na	na	na	59283535	1576059647	no	na
-6907832	question	56268145	False	&quot;Collecting package metadata: failed&quot; with UnavailableInvalidChannel error when conda install in a brand new Anaconda environment	1	1527	0	0	na	1558586313
+6907832	question	56268145	False	&quot;Collecting package metadata: failed&quot; with UnavailableInvalidChannel error when conda install in a brand new Anaconda environment	1	1528	0	0	na	1558586313
 5687042	answer	50206542	na	na	na	na	52174245	1536096663	yes	na
 10747237	answer	50206542	na	na	na	na	59282922	1576057755	no	na
 4907178	question	50206542	True	How can I get the url of a Django ImageField?	2	846	0	0	na	1525662149
@@ -213,16 +246,14 @@ Angel Perez57836443	answer	57836443	na	na	na	na	59285459	1576065899	no	na
 9209546	answer	49916371	na	na	na	na	49916565	1524127427	no	na
 6583140	answer	49916371	na	na	na	na	49916569	1524127431	no	na
 11691751	answer	49916371	na	na	na	na	59282490	1576056388	no	na
-9478926	question	49916371	True	How to append new row to dataframe in pandas?	4	15937	0	0	na	1524126850
+9478926	question	49916371	True	How to append new row to dataframe in pandas?	4	15941	0	0	na	1524126850
 9321755	answer	54236043	na	na	na	na	54236758	1547730846	yes	na
 9994611	answer	54236043	na	na	na	na	59282377	1576055993	no	na
 6353522	question	54236043	True	List index out of range error for loop on Json	2	256	0	0	na	1547728288
 7996768	answer	56307656	na	na	na	na	56308417	1558815861	yes	na
-9435410	question	56307656	True	&quot;Resource exhausted: OOM when allocating tensor&quot; during Retraining of GPT 2 Model:	1	904	0	0	na	1558809075
-12426666	answer	56649634	na	na	na	na	59282120	1576055112	no	na
-3590067	question	56649634	False	Pysal: how to do cross validation with pysal regression models?	1	79	0	0	na	1560862369
+9435410	question	56307656	True	&quot;Resource exhausted: OOM when allocating tensor&quot; during Retraining of GPT 2 Model:	1	905	0	0	na	1558809075
 5122246	answer	50195314	na	na	na	na	54751586	1550507439	no	na
-4230539	question	50195314	False	How do I use ItemAdd Event to monitor a shared inbox in Python?	1	452	0	0	na	1525567795
+4230539	question	50195314	False	How do I use ItemAdd Event to monitor a shared inbox in Python?	1	453	0	0	na	1525567795
 6632342	answer	49978705	na	na	na	na	49978853	1524479321	no	na
 1231073	answer	49978705	na	na	na	na	49979186	1524480358	no	na
 6684551	answer	49978705	na	na	na	na	51166331	1530682088	no	na
@@ -234,13 +265,13 @@ Angel Perez57836443	answer	57836443	na	na	na	na	59285459	1576065899	no	na
 4736972	answer	49978705	na	na	na	na	56181273	1558076776	no	na
 10833377	answer	49978705	na	na	na	na	56488622	1559886621	no	na
 4157431	answer	49978705	na	na	na	na	59040862	1574719941	no	na
-5052566	question	49978705	True	Access IP Camera in Python OpenCV	11	64386	0	0	na	1524478905
+5052566	question	49978705	True	Access IP Camera in Python OpenCV	11	64409	0	0	na	1524478905
 9093112	answer	53129146	na	na	na	na	57648173	1566753717	no	na
 4485622	answer	53129146	na	na	na	na	59282025	1576054745	no	na
 10429891	question	53129146	False	Python: BeautifulSoup UnboundLocalError	2	400	0	0	na	1541228056
 9521684	answer	49350821	na	na	na	na	59265547	1575975095	no	na
 6463558	answer	49350821	na	na	na	na	59281658	1576053298	no	na
-5843840	question	49350821	False	RuntimeWarning: coroutine was never awaited in tests	2	2712	0	0	na	1521393888
+5843840	question	49350821	False	RuntimeWarning: coroutine was never awaited in tests	2	2713	0	0	na	1521393888
 8203144	answer	55947170	na	na	na	na	55947253	1556780771	no	na
 3144322	answer	55947170	na	na	na	na	59281550	1576052918	no	na
 5561272	question	55947170	False	Check if mkl correctly installed in python3	2	131	0	0	na	1556780364
@@ -251,7 +282,7 @@ Angel Perez57836443	answer	57836443	na	na	na	na	59285459	1576065899	no	na
 3603682	answer	48174935	na	na	na	na	48178776	1515545218	no	na
 4276403	answer	48174935	na	na	na	na	48190844	1515598254	yes	na
 12444207	answer	48174935	na	na	na	na	59281001	1576050478	no	na
-4276403	question	48174935	True	Conda: Creating a virtual environment	3	33076	0	0	na	1515524100
+4276403	question	48174935	True	Conda: Creating a virtual environment	3	33079	0	0	na	1515524100
 555045	answer	52822487	na	na	na	na	52826250	1539648271	no	na
 4958717	answer	52822487	na	na	na	na	59280845	1576049808	no	na
 3192082	question	52822487	True	Generate binary strings that are at least in d hamming distance using ECC	2	138	0	0	na	1539626969
@@ -268,14 +299,14 @@ Angel Perez57836443	answer	57836443	na	na	na	na	59285459	1576065899	no	na
 9666817	answer	49113497	na	na	na	na	54776622	1550619723	no	na
 1200914	answer	49113497	na	na	na	na	56410843	1559427658	no	na
 12444207	answer	49113497	na	na	na	na	59279730	1576044264	no	na
-9446361	question	49113497	True	python tensorflow import dll load failed	5	12088	0	0	na	1520262615
+9446361	question	49113497	True	python tensorflow import dll load failed	5	12089	0	0	na	1520262615
 2952395	answer	50578524	na	na	na	na	50579198	1527580736	yes	na
 508338	answer	50578524	na	na	na	na	59279336	1576041821	no	na
 9213958	question	50578524	True	SENDGRID: send an email using transactional template using python?	2	834	0	0	na	1527578396
 5143695	answer	52289594	na	na	na	na	52289843	1536737812	yes	na
 1115833	question	52289594	True	tensorflow/keras lstm input shape	1	420	0	0	na	1536736889
 5370186	answer	57144586	na	na	na	na	59279247	1576041169	no	na
-8058705	question	57144586	False	Tensorflow GradientTape &quot;Gradients does not exist for variables&quot; intermittently	1	989	0	0	na	1563793190
+8058705	question	57144586	False	Tensorflow GradientTape &quot;Gradients does not exist for variables&quot; intermittently	1	991	0	0	na	1563793190
 4620420	answer	48294013	na	na	na	na	48300846	1516191021	yes	na
 8543811	answer	48294013	na	na	na	na	59279182	1576040730	no	na
 3901029	question	48294013	True	How to store my own class object into hdf5?	2	1660	0	0	na	1516166075
@@ -300,20 +331,20 @@ Angel Perez57836443	answer	57836443	na	na	na	na	59285459	1576065899	no	na
 12257274	answer	50557234	na	na	na	na	58504113	1571746645	no	na
 1380994	answer	50557234	na	na	na	na	58844512	1573674364	no	na
 12463202	answer	50557234	na	na	na	na	59278365	1576033793	no	na
-4127542	question	50557234	True	Authentication plugin &#39;caching_sha2_password&#39; is not supported	12	40526	0	0	na	1527461639
+4127542	question	50557234	True	Authentication plugin &#39;caching_sha2_password&#39; is not supported	12	40535	0	0	na	1527461639
 7837600	question	58052772	False	ValueError: Cannot use &#39;filtered_detections/map/while/strided_slice_1&#39; as input to &#39;filtered_detections/map/while/ones/packed&#39;	0	76	0	0	na	1569180964
 10176829	question	54817465	False	keras predict_generator throwing error after successful training	0	148	0	0	na	1550789295
 user1251538250639614	answer	50639614	na	na	na	na	59278225	1576032607	no	na
 2613005	question	50639614	False	Using sklearn-python model in spark ML 2.2.0 for prediction	1	346	0	0	na	1527843295
 2947378	answer	55545964	na	na	na	na	55546008	1554526129	yes	na
 5091805	answer	55545964	na	na	na	na	59278125	1576031801	no	na
-8855629	question	55545964	True	Multiprocessing in Python : Handle Multiple Worker Threads	2	276	0	0	na	1554525604
+8855629	question	55545964	True	Multiprocessing in Python : Handle Multiple Worker Threads	2	277	0	0	na	1554525604
 12122607	answer	51495087	na	na	na	na	59252511	1575907266	no	na
 9591860	question	51495087	True	how to rename the crawler file with the search keyword in python icrawler	1	73	0	0	na	1532424342
 3293881	answer	50765059	na	na	na	na	50765139	1528476279	yes	na
 4383245	question	50765059	True	Most Pythonic way to multiply these two vectors?	1	127	0	0	na	1528476000
 7675470	answer	49214921	na	na	na	na	49215040	1520724168	no	na
-9297798	question	49214921	True	Tensorflow error: ValueError: None values not supported	1	7440	0	0	na	1520723120
+9297798	question	49214921	True	Tensorflow error: ValueError: None values not supported	1	7442	0	0	na	1520723120
 11638084	answer	48709524	na	na	na	na	59277620	1576027153	no	na
 5420229	question	48709524	False	&#39;module&#39; object has no attribute &#39;WriteToBigQuery&#39; when running Apache Beam on Google App Engine Flex	1	442	0	0	na	1518191565
 8743099	answer	54293491	na	na	na	na	54341240	1548314320	no	na
@@ -324,7 +355,7 @@ user1251538250639614	answer	50639614	na	na	na	na	59278225	1576032607	no	na
 3825949	question	57226779	False	Call command-line utility and keep session alive	0	62	0	0	na	1564173819
 11492024	answer	56334210	na	na	na	na	56427596	1559565624	yes	na
 12514132	answer	56334210	na	na	na	na	59275246	1576011480	no	na
-5576930	question	56334210	True	How to extract sklearn decision tree rules to pandas boolean conditions?	2	713	0	0	na	1559009363
+5576930	question	56334210	True	How to extract sklearn decision tree rules to pandas boolean conditions?	2	714	0	0	na	1559009363
 6629669	answer	56099069	na	na	na	na	59276971	1576021486	no	na
 10558944	question	56099069	False	RGB image convolution from scipy	1	106	0	0	na	1557662747
 18243	answer	48951591	na	na	na	na	48951650	1519401094	yes	na
@@ -344,7 +375,7 @@ user835833748951591	question	48951591	True	Python: Find longest binary gap in bi
 7326738	answer	55660676	na	na	na	na	55660830	1555113864	no	na
 6890912	answer	55660676	na	na	na	na	55660864	1555114282	yes	na
 6890912	answer	55660676	na	na	na	na	59276679	1576019551	no	na
-5845205	question	55660676	True	How to convert list of dictionaries into a tree like nest dictionary?	3	70	0	0	na	1555112185
+5845205	question	55660676	True	How to convert list of dictionaries into a tree like nest dictionary?	3	71	0	0	na	1555112185
 4124317	answer	48947656	na	na	na	na	48947834	1519388578	yes	na
 3437787	question	48947656	True	How to combine two seaborn plots?	1	2331	0	0	na	1519387951
 7390366	answer	51290472	na	na	na	na	51586939	1532924486	no	na
@@ -356,7 +387,7 @@ user835833748951591	question	48951591	True	Python: Find longest binary gap in bi
 5003756	answer	49898742	na	na	na	na	49898878	1524051833	yes	na
 4871110	answer	49898742	na	na	na	na	49898903	1524051921	no	na
 7388570	answer	49898742	na	na	na	na	59276255	1576016704	no	na
-5236124	question	49898742	True	Pandas reading csv files with partial wildcard	4	3270	0	0	na	1524051394
+5236124	question	49898742	True	Pandas reading csv files with partial wildcard	4	3271	0	0	na	1524051394
 10993429	question	54452537	False	python pandas.read_csv from url	0	807	0	0	na	1548902250
 11581247	answer	56246819	na	na	na	na	59275910	1576014664	no	na
 9599223	question	56246819	False	how to correctly generate the xml with zeep?	1	73	0	0	na	1558475560
@@ -366,7 +397,7 @@ user835833748951591	question	48951591	True	Python: Find longest binary gap in bi
 6690295	answer	57738088	na	na	na	na	59275859	1576014399	no	na
 12003021	question	57738088	True	How to show the percentage values on a bar chart using artist layer of python matplotlib	2	150	0	0	na	1567255088
 11438258	answer	58071324	na	na	na	na	59274589	1576008394	no	na
-9260144	question	58071324	False	How can I pass arguments via Launch.json for debugging in Visual Studio 2019	1	36	0	0	na	1569281686
+9260144	question	58071324	False	How can I pass arguments via Launch.json for debugging in Visual Studio 2019	1	37	0	0	na	1569281686
 332059	answer	53523943	na	na	na	na	53524285	1543423499	yes	na
 3279307	answer	53523943	na	na	na	na	54272674	1547945702	no	na
 4487782	answer	53523943	na	na	na	na	56155082	1557942671	no	na
@@ -421,17 +452,17 @@ user835833748951591	question	48951591	True	Python: Find longest binary gap in bi
 2449192	answer	54408228	na	na	na	na	54489148	1549070678	no	na
 6858244	answer	54408228	na	na	na	na	54490790	1549090650	no	na
 1011320	question	54408228	True	Installing Python package will download, install, and remove other packages	2	258	0	0	na	1548700429
-10258626	question	57447480	False	How to troubleshoot &quot;Could not find platform independent libraries &lt;prefix&gt;&quot; in Python &amp; buildozer	0	148	0	0	na	1565500098
+10258626	question	57447480	False	How to troubleshoot &quot;Could not find platform independent libraries &lt;prefix&gt;&quot; in Python &amp; buildozer	0	149	0	0	na	1565500098
 9288200	answer	54519626	na	na	na	na	54520145	1549297002	yes	na
 4881095	answer	54519626	na	na	na	na	59273045	1576001077	no	na
-4288043	question	54519626	True	understanding object_pairs_hook in json.loads()	2	1202	0	0	na	1549295187
+4288043	question	54519626	True	understanding object_pairs_hook in json.loads()	2	1203	0	0	na	1549295187
 10842404	question	53956518	False	How to call python module from visual foxpro	0	95	0	0	na	1545990525
 6394722	answer	58018300	na	na	na	na	58021389	1568949867	yes	na
-613540	question	58018300	True	Using a pip cache directory in docker builds	1	442	0	0	na	1568923633
+613540	question	58018300	True	Using a pip cache directory in docker builds	1	445	0	0	na	1568923633
 8436879	answer	56596951	na	na	na	na	56597035	1560510839	no	na
 11403457	answer	56596951	na	na	na	na	56598057	1560514695	no	na
 5078847	answer	56596951	na	na	na	na	56787083	1561624533	no	na
-1822671	question	56596951	True	Save Pandas data frame to Google Cloud bucket	3	1187	0	0	na	1560510499
+1822671	question	56596951	True	Save Pandas data frame to Google Cloud bucket	3	1189	0	0	na	1560510499
 5851928	answer	54216071	na	na	na	na	54216278	1547638685	yes	na
 4932316	answer	54216071	na	na	na	na	54216319	1547638865	no	na
 11710237	answer	54216071	na	na	na	na	59271986	1575996467	no	na
@@ -450,23 +481,23 @@ user835833748951591	question	48951591	True	Python: Find longest binary gap in bi
 11203006	answer	50689359	na	na	na	na	59241368	1575853911	no	na
 2903906	answer	50689359	na	na	na	na	59256440	1575924821	no	na
 1754752	answer	50689359	na	na	na	na	59270975	1575992976	no	na
-2417204	question	50689359	True	Django 1.11 Natural Sort QuerySet	8	489	0	0	na	1528149663
+2417204	question	50689359	True	Django 1.11 Natural Sort QuerySet	8	495	0	0	na	1528149663
 3043335	answer	54175042	na	na	na	na	54188728	1547497785	no	na
 7801986	answer	54175042	na	na	na	na	54240362	1547742819	yes	na
 11136984	answer	54175042	na	na	na	na	54948588	1551457436	no	na
 2350145	answer	54175042	na	na	na	na	57014230	1562966991	no	na
 2685343	answer	54175042	na	na	na	na	57900671	1568268654	no	na
 4467424	answer	54175042	na	na	na	na	59270849	1575992607	no	na
-2252819	question	54175042	True	Python 3.7 anaconda environment - import _ssl DLL load fail error	6	32181	0	0	na	1547432138
+2252819	question	54175042	True	Python 3.7 anaconda environment - import _ssl DLL load fail error	6	32192	0	0	na	1547432138
 10722885	answer	56333388	na	na	na	na	56345704	1559057950	no	na
 5407682	answer	56333388	na	na	na	na	59270707	1575992102	no	na
-11564471	question	56333388	True	tensorflow: Fail to find dnn implementation	2	1229	0	0	na	1558999491
+11564471	question	56333388	True	tensorflow: Fail to find dnn implementation	2	1232	0	0	na	1558999491
 5704863	answer	52912734	na	na	na	na	52912925	1540105894	yes	na
 596495	question	52912734	True	Pandas: filter data frame by category	1	68	0	0	na	1540103861
 4098013	answer	53372704	na	na	na	na	53374070	1542628303	no	na
 10031645	question	53372704	False	creating duration into separate half an hour bands Pandas datetime	1	55	0	0	na	1542623611
 3293881	answer	53631460	na	na	na	na	53631518	1544010179	yes	na
-9112585	question	53631460	True	Using numpy isin element-wise between 2D and 1D arrays	1	1116	0	0	na	1544009999
+9112585	question	53631460	True	Using numpy isin element-wise between 2D and 1D arrays	1	1118	0	0	na	1544009999
 10906068	answer	55618363	na	na	na	na	55621003	1554928751	no	na
 3527420	answer	55618363	na	na	na	na	55621075	1554929110	no	na
 9113910	question	55618363	True	Django REST: Files\Images Uploading	2	378	0	0	na	1554917652
@@ -474,7 +505,7 @@ user835833748951591	question	48951591	True	Python: Find longest binary gap in bi
 7256341	answer	54890328	na	na	na	na	54934050	1551387008	yes	na
 8942966	answer	54890328	na	na	na	na	56358511	1559126021	no	na
 1021819	answer	54890328	na	na	na	na	59270044	1575989870	no	na
-3451339	question	54890328	True	Installing pandas in docker Alpine	4	6344	0	0	na	1551199551
+3451339	question	54890328	True	Installing pandas in docker Alpine	4	6349	0	0	na	1551199551
 9768643	answer	51434897	na	na	na	na	51434954	1532059917	yes	na
 10605551	answer	51434897	na	na	na	na	59269959	1575989616	no	na
 9779288	question	51434897	True	How to change audio playback speed using Pydub?	2	1871	0	0	na	1532059442
@@ -505,7 +536,7 @@ user835833748951591	question	48951591	True	Python: Find longest binary gap in bi
 10231802	answer	48135624	na	na	na	na	53699178	1544413040	no	na
 1799284	answer	48135624	na	na	na	na	54536211	1549375558	no	na
 3398492	answer	48135624	na	na	na	na	55620146	1554925174	no	na
-8230738	question	48135624	True	How can I change python version in Visual Studio Code?	4	22385	0	0	na	1515314458
+8230738	question	48135624	True	How can I change python version in Visual Studio Code?	4	22394	0	0	na	1515314458
 314922	answer	48627743	na	na	na	na	48628207	1517851779	no	na
 6832617	answer	48627743	na	na	na	na	54374133	1548458755	no	na
 2384464	answer	48627743	na	na	na	na	59268531	1575985150	yes	na
@@ -548,7 +579,7 @@ user835833748951591	question	48951591	True	Python: Find longest binary gap in bi
 4028102	answer	49836676	na	na	na	na	57744496	1567327327	no	na
 9905745	answer	49836676	na	na	na	na	58020436	1568940660	no	na
 3464971	answer	49836676	na	na	na	na	58938454	1574180022	no	na
-2743206	question	49836676	True	Error after upgrading pip: cannot import name &#39;main&#39;	30	331703	0	0	na	1523743950
+2743206	question	49836676	True	Error after upgrading pip: cannot import name &#39;main&#39;	30	331730	0	0	na	1523743950
 532312	answer	48357223	na	na	na	na	48357365	1516458977	yes	na
 6551439	question	48357223	True	Execute command as admin using subprocess	1	1524	0	0	na	1516458127
 10495260	question	53371682	False	Delete Radiobuttons from running Tkinter GUI	0	36	0	0	na	1542619788
@@ -568,7 +599,7 @@ user835833748951591	question	48951591	True	Python: Find longest binary gap in bi
 874188	answer	48705166	na	na	na	na	48705460	1518177971	no	na
 2133240	answer	48705166	na	na	na	na	48706051	1518179925	no	na
 631911	answer	48705166	na	na	na	na	59266516	1575978427	no	na
-4726625	question	48705166	True	Python does not convert long to int	3	4573	0	0	na	1518176973
+4726625	question	48705166	True	Python does not convert long to int	3	4574	0	0	na	1518176973
 10049134	answer	50189365	na	na	na	na	59266441	1575978178	no	na
 2632266	question	50189365	False	uWSGI error hr_instance_read(): Connection reset by peer	1	657	0	0	na	1525522757
 10434932	question	55189067	False	Anaconda won&#39;t open and I&#39;m getting CondaHTTPError: HTTP 000 error	0	106	0	0	na	1552676000
@@ -583,9 +614,9 @@ user835833748951591	question	48951591	True	Python: Find longest binary gap in bi
 9384866	question	54490805	True	Python Subprocess Module | Postgres pg_dump with password	2	513	0	0	na	1549090774
 5652313	answer	55681502	na	na	na	na	55685730	1555318849	no	na
 207661	answer	55681502	na	na	na	na	59264908	1575973049	no	na
-2096883	question	55681502	True	Label Smoothing in PyTorch	2	2827	0	0	na	1555290870
+2096883	question	55681502	True	Label Smoothing in PyTorch	2	2830	0	0	na	1555290870
 6342555	answer	55158451	na	na	na	na	55162332	1552565770	yes	na
-11158533	question	55158451	True	How to apply Bootstrap styles to a Flask template table?	1	657	0	0	na	1552554020
+11158533	question	55158451	True	How to apply Bootstrap styles to a Flask template table?	1	658	0	0	na	1552554020
 9937076	answer	53913511	na	na	na	na	53914715	1545661959	no	na
 10852521	answer	53913511	na	na	na	na	59264007	1575970087	yes	na
 10829044	question	53913511	True	How to implement SQL Row_number in Python Pandas?	2	334	0	0	na	1545654748
@@ -593,7 +624,7 @@ user835833748951591	question	48951591	True	Python: Find longest binary gap in bi
 3742287	question	52292879	True	Azure Python SDK to get usage details - UsageDetailsOperations Class	1	222	0	0	na	1536747693
 11032232	answer	54588066	na	na	na	na	54588280	1549613574	no	na
 9081395	answer	54588066	na	na	na	na	55514578	1554376550	yes	na
-7462615	question	54588066	True	Cannot install RAY	2	3518	0	0	na	1549612528
+7462615	question	54588066	True	Cannot install RAY	2	3520	0	0	na	1549612528
 5357932	answer	50756793	na	na	na	na	50757759	1528450961	yes	na
 6245650	answer	50756793	na	na	na	na	50758915	1528454706	no	na
 3152047	answer	50756793	na	na	na	na	50778453	1528577693	no	na
@@ -605,11 +636,11 @@ user835833748951591	question	48951591	True	Python: Find longest binary gap in bi
 8156810	question	58000751	True	Using AWS Secrets Manager with Python (Lambda Console)	3	788	0	0	na	1568840956
 8008776	answer	48613151	na	na	na	na	48613514	1517782289	no	na
 4471715	answer	48613151	na	na	na	na	49920803	1524139889	no	na
-1558125	question	48613151	True	Simple Python Pandas EMA (ewma)?	2	8690	0	0	na	1517779471
+1558125	question	48613151	True	Simple Python Pandas EMA (ewma)?	2	8692	0	0	na	1517779471
 562769	answer	56206942	na	na	na	na	56208907	1558277113	no	na
 11955945	answer	56206942	na	na	na	na	57587733	1566377095	no	na
 21499	answer	56206942	na	na	na	na	57621524	1566544802	no	na
-21499	question	56206942	False	How can I predict the expected value and the variance simultaneously with a neural network?	3	171	0	0	na	1558262199
+21499	question	56206942	False	How can I predict the expected value and the variance simultaneously with a neural network?	3	172	0	0	na	1558262199
 11281341	answer	56166319	na	na	na	na	56618606	1560686201	no	na
 11393245	answer	56166319	na	na	na	na	57179135	1563959060	no	na
 8184860	answer	56166319	na	na	na	na	57674968	1566909726	no	na
@@ -623,13 +654,13 @@ user835833748951591	question	48951591	True	Python: Find longest binary gap in bi
 4909087	answer	49545599	na	na	na	na	49545635	1522278768	yes	na
 6671176	answer	49545599	na	na	na	na	49545707	1522279318	no	na
 9209546	answer	49545599	na	na	na	na	49545737	1522279462	no	na
-6228056	question	49545599	True	How to turn a Pandas column into array and transpose it?	3	8208	0	0	na	1522278541
+6228056	question	49545599	True	How to turn a Pandas column into array and transpose it?	3	8209	0	0	na	1522278541
 680740	answer	51968643	na	na	na	na	53801430	1544957264	no	na
 52817	answer	51968643	na	na	na	na	57332849	1564776419	yes	na
 5992952	answer	51968643	na	na	na	na	59261453	1575959484	no	na
 216662	question	51968643	True	How to use pipenv in Python shell script?	3	1305	0	0	na	1534946559
 5769463	answer	53763480	na	na	na	na	53763481	1544709337	yes	na
-5769463	question	53763480	True	Error message &quot;Cannot convert &lt;type_name&gt;* to Python object&quot; in Cython	1	812	0	0	na	1544709337
+5769463	question	53763480	True	Error message &quot;Cannot convert &lt;type_name&gt;* to Python object&quot; in Cython	1	813	0	0	na	1544709337
 5829203	answer	57754602	na	na	na	na	59261140	1575957844	no	na
 1065000	question	57754602	False	Jenkins API Response is not taking Crumb	1	78	0	0	na	1567416957
 9590827	answer	51677283	na	na	na	na	52646046	1538654058	no	na
@@ -638,7 +669,7 @@ user835833748951591	question	48951591	True	Python: Find longest binary gap in bi
 10097431	question	51677283	True	TesseractNotFoundError: tesseract is not installed or it&#39;s not in your path	3	8112	0	0	na	1533316311
 6253693	answer	50052295	na	na	na	na	50052355	1524779508	no	na
 3639581	answer	50052295	na	na	na	na	51698037	1533501097	yes	na
-5149399	question	50052295	True	How do you load images into Pytorch DataLoader?	2	23478	0	0	na	1524779167
+5149399	question	50052295	True	How do you load images into Pytorch DataLoader?	2	23488	0	0	na	1524779167
 7326738	answer	48936869	na	na	na	na	48936952	1519332782	no	na
 3185459	answer	48936869	na	na	na	na	48937007	1519332990	yes	na
 5364318	answer	48936869	na	na	na	na	48937086	1519333328	no	na
@@ -661,7 +692,7 @@ user835833748951591	question	48951591	True	Python: Find longest binary gap in bi
 1101203	answer	50785665	na	na	na	na	52132940	1535845120	no	na
 8834490	answer	50785665	na	na	na	na	58244137	1570231668	no	na
 fijo50785665	answer	50785665	na	na	na	na	59259547	1575946612	no	na
-9921627	question	50785665	True	kernel keeps dying in jupyter notebook	3	5361	0	0	na	1528647355
+9921627	question	50785665	True	kernel keeps dying in jupyter notebook	3	5364	0	0	na	1528647355
 9794932	answer	58028976	na	na	na	na	58029409	1568986348	no	na
 9603973	answer	58028976	na	na	na	na	58368962	1571015155	no	na
 12271466	answer	58028976	na	na	na	na	58550566	1571961606	no	na
@@ -669,24 +700,24 @@ fijo50785665	answer	50785665	na	na	na	na	59259547	1575946612	no	na
 12282702	answer	58028976	na	na	na	na	58582766	1572205573	no	na
 9254522	answer	58028976	na	na	na	na	58829361	1573611280	no	na
 1009508	answer	58028976	na	na	na	na	59258666	1575938767	no	na
-8191929	question	58028976	True	TypeError: Unexpected keyword argument passed to optimizer: learning_rate	7	4721	0	0	na	1568984745
+8191929	question	58028976	True	TypeError: Unexpected keyword argument passed to optimizer: learning_rate	7	4730	0	0	na	1568984745
 9212365	answer	56803059	na	na	na	na	59258641	1575938621	no	na
 8301318	question	56803059	False	Read images from Excel cell in Python	1	103	0	0	na	1561708770
 771848	answer	48066322	na	na	na	na	48066323	1514919486	yes	na
 953553	answer	48066322	na	na	na	na	57974091	1568722814	no	na
 7377460	answer	48066322	na	na	na	na	59034852	1574694748	no	na
-771848	question	48066322	True	Descriptive flake8 errors in PyCharm	3	5487	0	0	na	1514919486
+771848	question	48066322	True	Descriptive flake8 errors in PyCharm	3	5489	0	0	na	1514919486
 deceze51762227	answer	51762227	na	na	na	na	51762340	1533803675	no	na
 4647152	answer	51762227	na	na	na	na	51762699	1533804777	no	na
 7048431	question	51762227	True	How to call a async function from a synchronized code Python	2	5559	0	0	na	1533803345
 3791827	answer	50504500	na	na	na	na	50504635	1527150825	yes	na
-3079726	question	50504500	True	DeprecationWarning: invalid escape sequence - what to use instead of \d?	1	27976	0	0	na	1527150463
+3079726	question	50504500	True	DeprecationWarning: invalid escape sequence - what to use instead of \d?	1	27984	0	0	na	1527150463
 2937831	answer	54015895	na	na	na	na	54030147	1546551462	yes	na
 10463591	answer	54015895	na	na	na	na	55404929	1553799121	no	na
 10463591	question	54015895	True	Altair default color palette colors in HEX	2	426	0	0	na	1546485502
 10320232	answer	57425403	na	na	na	na	57438258	1565394356	no	na
 11906001	question	57425403	True	trying to setup connexion.AioHttpApp() with aiohttp-cors for async routes fails	1	64	0	0	na	1565335978
-8896235	question	57056942	False	How to convert Ansible-Playbooks to be used with Ansible-API	0	169	0	0	na	1563278979
+8896235	question	57056942	False	How to convert Ansible-Playbooks to be used with Ansible-API	0	170	0	0	na	1563278979
 3968014	answer	55548675	na	na	na	na	55550434	1554563508	yes	na
 9061422	answer	55548675	na	na	na	na	59257600	1575930570	no	na
 7549341	question	55548675	True	Difference between balanced_accuracy_score and accuracy_score	2	658	0	0	na	1554550501
@@ -713,7 +744,7 @@ deceze51762227	answer	51762227	na	na	na	na	51762340	1533803675	no	na
 4235469	answer	56035523	na	na	na	na	56520650	1560142130	no	na
 11759958	answer	56035523	na	na	na	na	56953830	1562679218	no	na
 11926308	answer	56035523	na	na	na	na	59256302	1575924226	no	na
-7529256	question	56035523	True	How to profile large datasets with Pandas profiling?	3	1726	0	0	na	1557300068
+7529256	question	56035523	True	How to profile large datasets with Pandas profiling?	3	1727	0	0	na	1557300068
 142637	answer	53878334	na	na	na	na	53881451	1545381044	yes	na
 10155271	question	53878334	True	The Pipes in my Pygame Flappy Bird clone lag and jolt around instead of moving fluidly	1	103	0	0	na	1545358098
 12507261	answer	55298463	na	na	na	na	59255346	1575919484	no	na
@@ -726,7 +757,7 @@ deceze51762227	answer	51762227	na	na	na	na	51762340	1533803675	no	na
 998415	answer	57528027	na	na	na	na	58464975	1571497405	no	na
 munney57528027	answer	57528027	na	na	na	na	58533797	1571888303	no	na
 12506812	answer	57528027	na	na	na	na	59254024	1575913439	no	na
-5659025	question	57528027	True	ImportError: Could not find &#39;cudart64_100.dll	3	4713	0	0	na	1565972464
+5659025	question	57528027	True	ImportError: Could not find &#39;cudart64_100.dll	3	4726	0	0	na	1565972464
 7708172	answer	57270470	na	na	na	na	57270647	1564486256	yes	na
 6139504	answer	57270470	na	na	na	na	57270674	1564486344	no	na
 8659995	question	57270470	True	Django-filter, how to make multiple fields search? (with django-filter!)	2	70	0	0	na	1564485691
@@ -751,19 +782,19 @@ munney57528027	answer	57528027	na	na	na	na	58533797	1571888303	no	na
 10290211	question	57484271	False	Tensorflow ImportError - can&#39;t import &#39;string_int_label_map_pb2&#39;	0	80	0	0	na	1565724969
 4634344	answer	49537474	na	na	na	na	54815641	1550780620	no	na
 10447679	answer	49537474	na	na	na	na	59025410	1574657475	no	na
-9298540	question	49537474	True	Wordcloud of bigram using Python	2	1553	0	0	na	1522247985
+9298540	question	49537474	True	Wordcloud of bigram using Python	2	1554	0	0	na	1522247985
 7130689	answer	56294058	na	na	na	na	56604366	1560541921	yes	na
 2509621	answer	56294058	na	na	na	na	57563967	1566248811	no	na
-7130689	question	56294058	True	SnowflakeSQLException Error code: 390100, Message: Incorrect username or password was specified	2	364	0	0	na	1558705878
+7130689	question	56294058	True	SnowflakeSQLException Error code: 390100, Message: Incorrect username or password was specified	2	365	0	0	na	1558705878
 7736861	answer	57688517	na	na	na	na	57688654	1566982827	no	na
 7303415	answer	57688517	na	na	na	na	59245496	1575882135	no	na
 11987757	question	57688517	False	How can I execute a python flask web app with xampp?	2	265	0	0	na	1566982417
 9355594	answer	48769682	na	na	na	na	48769980	1518534954	no	na
 12197605	answer	48769682	na	na	na	na	59254464	1575915214	no	na
-5201448	question	48769682	True	How do I convert data from a Scikit-learn Bunch object to a Pandas DataFrame?	2	2176	0	0	na	1518533957
+5201448	question	48769682	True	How do I convert data from a Scikit-learn Bunch object to a Pandas DataFrame?	2	2177	0	0	na	1518533957
 12127815	answer	56369850	na	na	na	na	58458384	1571433813	no	na
 12241219	answer	56369850	na	na	na	na	58459715	1571447389	no	na
-5839007	question	56369850	False	Customize data type mapping from snowflake using the spark connector	2	95	0	0	na	1559173146
+5839007	question	56369850	False	Customize data type mapping from snowflake using the spark connector	2	96	0	0	na	1559173146
 10804423	answer	57984701	na	na	na	na	57984925	1568779345	yes	na
 1768610	question	57984701	True	Convert Private key(string) to DER format using python	1	33	0	0	na	1568777663
 7456788	answer	48895374	na	na	na	na	59253965	1575913168	no	na
@@ -784,7 +815,7 @@ D. Taylor Reich54358546	answer	54358546	na	na	na	na	59253944	1575913066	no	na
 4001592	answer	54043313	na	na	na	na	54043570	1546623018	no	na
 5704863	answer	54043313	na	na	na	na	54043587	1546623119	no	na
 1329504	answer	54043313	na	na	na	na	59253176	1575909779	no	na
-3758396	question	54043313	True	Select rows from a Pandas DataFrame with same values in one column but different value in the other column	3	2739	0	0	na	1546621864
+3758396	question	54043313	True	Select rows from a Pandas DataFrame with same values in one column but different value in the other column	3	2741	0	0	na	1546621864
 7512026	question	57005688	False	How to read speech_recognition AudioData from stdin in Python?	0	50	0	0	na	1562929432
 7919597	answer	48699954	na	na	na	na	48700443	1518160117	yes	na
 6651056	question	48699954	True	Keras : AttributeError: &#39;int&#39; object has no attribute &#39;ndim&#39; when using model.fit	1	6844	0	0	na	1518157704
@@ -792,7 +823,7 @@ D. Taylor Reich54358546	answer	54358546	na	na	na	na	59253944	1575913066	no	na
 10635033	question	56765331	True	ValueError: could not convert string to float - machine learning	1	83	0	0	na	1561524252
 9758354	answer	51629238	na	na	na	na	51635518	1533132732	no	na
 6794005	answer	51629238	na	na	na	na	59251644	1575904130	no	na
-8748545	question	51629238	False	Extract contour area from image	2	610	0	0	na	1533114011
+8748545	question	51629238	False	Extract contour area from image	2	611	0	0	na	1533114011
 1606729	answer	57611567	na	na	na	na	57613835	1566492263	no	na
 1256930	answer	57611567	na	na	na	na	59252968	1575908917	no	na
 5312695	question	57611567	False	Stripe API PaymentIntent and Billing with Python	2	299	0	0	na	1566483879
@@ -804,7 +835,7 @@ D. Taylor Reich54358546	answer	54358546	na	na	na	na	59253944	1575913066	no	na
 10282322	answer	53289302	na	na	na	na	53289908	1542145176	yes	na
 9678296	question	53289302	True	Invalid requests in dropbox with python requests	1	60	0	0	na	1542142241
 9161215	answer	48062227	na	na	na	na	48063712	1514907522	yes	na
-8916091	question	48062227	True	Adding multiple variables to get the sum?	1	190	0	0	na	1514901110
+8916091	question	48062227	True	Adding multiple variables to get the sum?	1	191	0	0	na	1514901110
 12506066	answer	55780582	na	na	na	na	59251976	1575905344	no	na
 10458964	question	55780582	False	How to force Python (EMCEE) to move exactly between the defined range of prior	1	70	0	0	na	1555829549
 1192111	answer	50428030	na	na	na	na	50428045	1526752443	yes	na
@@ -816,37 +847,37 @@ D. Taylor Reich54358546	answer	54358546	na	na	na	na	59253944	1575913066	no	na
 1656503	answer	53150072	na	na	na	na	53150300	1541404385	no	na
 10288309	question	53150072	True	Node Js make call to http python flask server	1	770	0	0	na	1541403154
 9209546	answer	50170943	na	na	na	na	50171010	1525424139	yes	na
-8667423	question	50170943	True	Converting list to tuple in Python	1	6553	0	0	na	1525423981
+8667423	question	50170943	True	Converting list to tuple in Python	1	6556	0	0	na	1525423981
 17160	answer	51254065	na	na	na	na	51254092	1531170670	yes	na
 7434365	answer	51254065	na	na	na	na	51254263	1531171625	no	na
 5701085	answer	51254065	na	na	na	na	55606861	1554880861	no	na
 3198235	answer	51254065	na	na	na	na	59251375	1575903246	no	na
-8210824	question	51254065	True	Shuffle a integer using recursive function	4	1063	0	0	na	1531170531
+8210824	question	51254065	True	Shuffle a integer using recursive function	4	1064	0	0	na	1531170531
 9475713	answer	56299269	na	na	na	na	59251069	1575902076	no	na
 2005490	question	56299269	False	How can I cascade union OGR Multipolygons	1	99	0	0	na	1558730268
 5249307	answer	48743106	na	na	na	na	48743337	1518428402	yes	na
 812183	answer	48743106	na	na	na	na	48920924	1519280698	no	na
-900078	question	48743106	True	What&#39;s &quot;ANSI_X3.4-1968&quot; encoding?	2	7136	0	0	na	1518427653
+900078	question	48743106	True	What&#39;s &quot;ANSI_X3.4-1968&quot; encoding?	2	7137	0	0	na	1518427653
 1714410	answer	52468956	na	na	na	na	52511383	1537943774	yes	na
 109618	answer	52468956	na	na	na	na	54283312	1548042920	no	na
 9385203	answer	52468956	na	na	na	na	57729143	1567177193	no	na
-1436508	question	52468956	True	How do I visualize a net in Pytorch?	3	10272	0	0	na	1537726504
+1436508	question	52468956	True	How do I visualize a net in Pytorch?	3	10274	0	0	na	1537726504
 10511518	answer	57735765	na	na	na	na	59250736	1575900945	no	na
 11803025	question	57735765	True	cannot import name &#39;ft2font&#39; from &#39;matplotlib&#39; on windows10	1	244	0	0	na	1567233326
 8044326	answer	53702713	na	na	na	na	53702842	1544434589	no	na
 11346795	answer	53702713	na	na	na	na	55634896	1554992814	no	na
 9195200	question	53702713	True	Breaking while importing Stocker in python	2	277	0	0	na	1544434062
 3208297	answer	52781433	na	na	na	na	52781450	1539353708	no	na
-10396288	question	52781433	True	How to get the unit vector from a numpy array	1	8457	0	0	na	1539353635
+10396288	question	52781433	True	How to get the unit vector from a numpy array	1	8463	0	0	na	1539353635
 1179880	answer	55814673	na	na	na	na	55832939	1556117448	yes	na
-11153529	question	55814673	True	Python Connect to Microsoft Analysis Service	1	1004	0	0	na	1556033476
+11153529	question	55814673	True	Python Connect to Microsoft Analysis Service	1	1005	0	0	na	1556033476
 167813	answer	48842812	na	na	na	na	48869817	1519056046	no	na
 7605543	answer	48842812	na	na	na	na	48919217	1519270396	yes	na
 7605543	question	48842812	True	sudo: unknown user: root via PythonAnywhere	2	1006	0	0	na	1518880860
 7511070	answer	54984230	na	na	na	na	55062974	1552047035	yes	na
 7820044	answer	54984230	na	na	na	na	59170698	1575443563	no	na
 1802510	answer	54984230	na	na	na	na	59248976	1575894593	no	na
-7511070	question	54984230	True	Databricks cluster does not initialize Azure library with error: module &#39;lib&#39; has no attribute &#39;SSL_ST_INIT&#39;	3	813	0	0	na	1551705828
+7511070	question	54984230	True	Databricks cluster does not initialize Azure library with error: module &#39;lib&#39; has no attribute &#39;SSL_ST_INIT&#39;	3	814	0	0	na	1551705828
 1077364	answer	57738352	na	na	na	na	59248927	1575894392	no	na
 3699166	question	57738352	True	Unable to do two calls and conference with Python PJSIP	1	100	0	0	na	1567257508
 11037940	question	54606807	False	pyinstaller error with os.Pathlike object	0	977	0	0	na	1549719857
@@ -872,11 +903,11 @@ D. Taylor Reich54358546	answer	54358546	na	na	na	na	59253944	1575913066	no	na
 9582871	answer	53698035	na	na	na	na	59007505	1574511346	no	na
 9228901	answer	53698035	na	na	na	na	59155684	1575371111	no	na
 8928244	answer	53698035	na	na	na	na	59247224	1575888490	no	na
-3366418	question	53698035	True	Failed to get convolution algorithm. This is probably because cuDNN failed to initialize,	11	15862	0	0	na	1544401140
+3366418	question	53698035	True	Failed to get convolution algorithm. This is probably because cuDNN failed to initialize,	11	15867	0	0	na	1544401140
 2488240	answer	54642311	na	na	na	na	54642406	1549942189	no	na
 4390160	answer	54642311	na	na	na	na	54642425	1549942432	no	na
 1342257	answer	54642311	na	na	na	na	54642428	1549942474	no	na
-11048534	question	54642311	True	function for suffix array python	3	439	0	0	na	1549941179
+11048534	question	54642311	True	function for suffix array python	3	443	0	0	na	1549941179
 2180547	answer	54933541	na	na	na	na	59246358	1575885418	no	na
 1298483	question	54933541	False	SQLAlchemy can&#39;t adapt type for TextField	1	67	0	0	na	1551384747
 4558344	answer	55177830	na	na	na	na	59246233	1575884927	no	na
@@ -888,20 +919,20 @@ D. Taylor Reich54358546	answer	54358546	na	na	na	na	59253944	1575913066	no	na
 11942178	answer	48479092	na	na	na	na	59245891	1575883632	no	na
 8413792	question	48479092	True	&quot;to&quot; argument must be a list or tuple in Django	3	623	0	0	na	1517077605
 10666040	answer	55149225	na	na	na	na	59245098	1575880413	no	na
-8480169	question	55149225	False	Tensorflow prediciton error, invalidArgumentError: assertion failed: [Unable to decode bytes as JPEG, PNG, GIF, or BMP]	1	514	0	0	na	1552502751
+8480169	question	55149225	False	Tensorflow prediciton error, invalidArgumentError: assertion failed: [Unable to decode bytes as JPEG, PNG, GIF, or BMP]	1	515	0	0	na	1552502751
 7432	answer	56685548	na	na	na	na	56690396	1561048411	no	na
 11675818	question	56685548	False	how do i display image stored in sqlite into tkinter window	1	108	0	0	na	1561032090
 4358680	answer	55517232	na	na	na	na	55559030	1554640143	no	na
 8697791	answer	55517232	na	na	na	na	56582248	1560434494	no	na
 6226318	answer	55517232	na	na	na	na	59244866	1575879330	no	na
-6096906	question	55517232	False	WARNING - State of this instance has been externally set to success. Taking the poison pill	3	1442	0	0	na	1554384576
+6096906	question	55517232	False	WARNING - State of this instance has been externally set to success. Taking the poison pill	3	1445	0	0	na	1554384576
 2858170	answer	48928592	na	na	na	na	48933362	1519319316	yes	na
 9360135	answer	48928592	na	na	na	na	59244774	1575878889	no	na
-9396269	question	48928592	True	How to get the co-ordinates of the text recogonized from Image using OCR in python	2	1980	0	0	na	1519306010
+9396269	question	48928592	True	How to get the co-ordinates of the text recogonized from Image using OCR in python	2	1982	0	0	na	1519306010
 4085591	answer	48944783	na	na	na	na	48944916	1519378753	yes	na
 3869724	answer	48944783	na	na	na	na	48944951	1519378867	no	na
 5014455	answer	48944783	na	na	na	na	48945128	1519379549	no	na
-7396613	question	48944783	True	Differences between using numpy append or array append - Python	3	408	0	0	na	1519378306
+7396613	question	48944783	True	Differences between using numpy append or array append - Python	3	409	0	0	na	1519378306
 7613340	answer	57576937	na	na	na	na	57595994	1566405594	no	na
 11952393	question	57576937	False	How to fix &quot;module &#39;pg8000&#39; has no attribute &#39;connect&#39;&quot; error in AWS Glue job	1	84	0	0	na	1566314784
 2357112	answer	54047100	na	na	na	na	54047205	1546642150	yes	na
@@ -918,7 +949,7 @@ D. Taylor Reich54358546	answer	54358546	na	na	na	na	59253944	1575913066	no	na
 945871	answer	48531006	na	na	na	na	48533589	1517366107	no	na
 6183502	answer	48531006	na	na	na	na	52732858	1539147349	no	na
 10732120	answer	48531006	na	na	na	na	55893693	1556478623	no	na
-1727392	question	48531006	True	wxPython: This program needs access to the screen	4	2962	0	0	na	1517348544
+1727392	question	48531006	True	wxPython: This program needs access to the screen	4	2963	0	0	na	1517348544
 11602716	question	56456569	False	Heroku hosting error when putting the webbrowser module(Python) in the requirements.txt	0	71	0	0	na	1559722423
 838117	answer	51152183	na	na	na	na	51153595	1530617644	no	na
 838117	answer	51152183	na	na	na	na	51156749	1530627025	no	na
@@ -928,11 +959,11 @@ D. Taylor Reich54358546	answer	54358546	na	na	na	na	59253944	1575913066	no	na
 10709135	answer	52728414	na	na	na	na	59241875	1575859283	no	na
 10480609	question	52728414	True	How can I download file from SFTP using pysftp?	2	773	0	0	na	1539114907
 Martijn Pieters49851776	answer	49851776	na	na	na	na	49852437	1523866214	yes	na
-3620936	question	49851776	True	RecursionError: maximum recursion depth exceeded while getting the str of an object	1	3252	0	0	na	1523863908
+3620936	question	49851776	True	RecursionError: maximum recursion depth exceeded while getting the str of an object	1	3254	0	0	na	1523863908
 6549908	question	55061758	False	How to fix &quot; Timeout when reading response headers from daemon process&quot; error when using WSGI with Django and Apache	0	540	0	0	na	1552042639
 10475068	answer	52825049	na	na	na	na	52825074	1539639274	no	na
 2850957	answer	52825049	na	na	na	na	59241184	1575851735	no	na
-6688801	question	52825049	False	Raspberry hostname change but not really	2	85	0	0	na	1539639155
+6688801	question	52825049	False	Raspberry hostname change but not really	2	86	0	0	na	1539639155
 446106	answer	57314714	na	na	na	na	58726159	1573029953	no	na
 11406139	answer	57314714	na	na	na	na	59240615	1575845329	yes	na
 11406139	question	57314714	True	Visual C++ Redistributable 2015 Deleted and can&#39;t reinstall	2	32	0	0	na	1564682805
@@ -941,7 +972,7 @@ Martijn Pieters49851776	answer	49851776	na	na	na	na	49852437	1523866214	yes	na
 6835092	answer	51125462	na	na	na	na	54540062	1549388039	no	na
 11044933	answer	51125462	na	na	na	na	58327329	1570724807	no	na
 2719377	answer	51125462	na	na	na	na	59240608	1575845274	no	na
-1581390	question	51125462	True	Spyder Not Launching	5	16551	0	0	na	1530465992
+1581390	question	51125462	True	Spyder Not Launching	5	16553	0	0	na	1530465992
 2292767	answer	56805119	na	na	na	na	56807741	1561728108	no	na
 12023727	answer	56805119	na	na	na	na	59203953	1575583493	no	na
 4782060	question	56805119	True	How can I know which cluster of self-organizing map (SOM) an element belongs to in python?	2	192	0	0	na	1561717108
@@ -951,7 +982,7 @@ Martijn Pieters49851776	answer	49851776	na	na	na	na	49852437	1523866214	yes	na
 10587171	answer	51114826	na	na	na	na	53088606	1541005254	yes	na
 6155733	answer	51114826	na	na	na	na	57040866	1563197498	no	na
 9999520	answer	51114826	na	na	na	na	57258728	1564421279	no	na
-8804904	question	51114826	True	Cannot import cv2 on PyCharm	3	12030	0	0	na	1530360875
+8804904	question	51114826	True	Cannot import cv2 on PyCharm	3	12033	0	0	na	1530360875
 2116766	answer	55823557	na	na	na	na	59239728	1575837787	no	na
 6081276	question	55823557	False	Converting Darknet53 gives &quot;nan&quot; results in Tensorflow 2.0	1	69	0	0	na	1556086934
 4763058	answer	58055778	na	na	na	na	58056705	1569220037	no	na
@@ -968,7 +999,7 @@ Martijn Pieters49851776	answer	49851776	na	na	na	na	49852437	1523866214	yes	na
 5003756	answer	51060894	na	na	na	na	51061279	1530097808	no	na
 8255456	answer	51060894	na	na	na	na	51314351	1531429078	no	na
 12501496	answer	51060894	na	na	na	na	59239251	1575834241	no	na
-4796963	question	51060894	True	Adding a data file in Pyinstaller using the onefile option	3	5354	0	0	na	1530096526
+4796963	question	51060894	True	Adding a data file in Pyinstaller using the onefile option	3	5356	0	0	na	1530096526
 4901345	answer	57403620	na	na	na	na	57403960	1565226139	no	na
 11461382	question	57403620	False	How to merge raster files directly to ENVI or LAN	1	38	0	0	na	1565222673
 9313033	answer	48669514	na	na	na	na	48671384	1518029986	yes	na
@@ -988,7 +1019,7 @@ Martijn Pieters49851776	answer	49851776	na	na	na	na	49852437	1523866214	yes	na
 11541027	answer	53391618	na	na	na	na	59238039	1575826466	no	na
 6925077	question	53391618	True	Tensor Tensor(&quot;predictions/Softmax:0&quot;, shape=(?, 1000), dtype=float32) is not an element of this graph	2	2255	0	0	na	1542711900
 8075923	answer	54580180	na	na	na	na	54583568	1549580048	yes	na
-8075923	question	54580180	True	Pony ORM Entity Unidirectional Mapping gives an error	1	121	0	0	na	1549564969
+8075923	question	54580180	True	Pony ORM Entity Unidirectional Mapping gives an error	1	122	0	0	na	1549564969
 2717128	answer	56157125	na	na	na	na	59237874	1575825446	no	na
 8456120	question	56157125	False	advise for debugging `tf.data.Dataset` operations in tensorflow 2.0	1	222	0	0	na	1557951960
 9765584	question	50256278	False	How to create a Toast Notification (with Buttons!) using win32api?	0	229	0	0	na	1525877370
@@ -1014,13 +1045,13 @@ Martijn Pieters49851776	answer	49851776	na	na	na	na	49852437	1523866214	yes	na
 1600898	answer	53993334	na	na	na	na	53996189	1546352199	yes	na
 2148718	question	53993334	True	Converting a Python function with a callback to an asyncio awaitable	2	1681	0	0	na	1546322410
 2857135	answer	52297481	na	na	na	na	56752164	1561459171	no	na
-2890590	question	52297481	True	How to retrieve well formatted JSON from AWS Lambda using Python	1	3163	0	0	na	1536762249
+2890590	question	52297481	True	How to retrieve well formatted JSON from AWS Lambda using Python	1	3164	0	0	na	1536762249
 10103754	answer	49733576	na	na	na	na	51418438	1531990789	no	na
 3762316	answer	49733576	na	na	na	na	52497309	1537875462	no	na
 7735255	answer	49733576	na	na	na	na	55201500	1552770537	no	na
 6582677	answer	49733576	na	na	na	na	57957411	1568638688	no	na
 12186436	answer	49733576	na	na	na	na	59235274	1575807297	no	na
-user937591649733576	question	49733576	True	How to extract more than one table present in a pdf file with tabula in python?	5	1747	0	0	na	1523278723
+user937591649733576	question	49733576	True	How to extract more than one table present in a pdf file with tabula in python?	5	1749	0	0	na	1523278723
 11162165	answer	55451597	na	na	na	na	55462502	1554147995	no	na
 8837661	answer	55451597	na	na	na	na	59235267	1575807221	no	na
 11287992	question	55451597	False	Port missing in uri warning: Error opening file with Python OpenCV cv2.VideoCapture()	2	297	0	0	na	1554109895
@@ -1035,7 +1066,7 @@ user937591649733576	question	49733576	True	How to extract more than one table pr
 9926721	answer	55093331	na	na	na	na	59235046	1575805501	no	na
 4390183	question	55093331	False	&quot;File format is not supported&quot; while multi threading a list of pdf files	1	193	0	0	na	1552259462
 5048815	answer	53340627	na	na	na	na	53340824	1542382070	yes	na
-5383389	question	53340627	True	TypeError: expected bytes-like object, not str	1	4111	0	0	na	1542381440
+5383389	question	53340627	True	TypeError: expected bytes-like object, not str	1	4113	0	0	na	1542381440
 12010744	answer	57982946	na	na	na	na	57983268	1568764011	no	na
 355230	answer	57982946	na	na	na	na	58002171	1568852447	no	na
 108205	answer	57982946	na	na	na	na	58031309	1568993431	yes	na
@@ -1070,7 +1101,7 @@ Hritik kumar53637182	answer	53637182	na	na	na	na	56261948	1558545419	no	na
 4502537	answer	53637182	na	na	na	na	58899684	1573987479	no	na
 10448129	answer	53637182	na	na	na	na	59157750	1575378087	no	na
 6701196	answer	53637182	na	na	na	na	59234866	1575804057	no	na
-10750522	question	53637182	True	Django - No such table: main.auth_user__old	27	31058	0	0	na	1544028955
+10750522	question	53637182	True	Django - No such table: main.auth_user__old	27	31063	0	0	na	1544028955
 10883094	answer	54402593	na	na	na	na	54417572	1548753640	no	na
 9926721	answer	54402593	na	na	na	na	59234822	1575803708	no	na
 9368056	question	54402593	False	Remove whitespace from PDF Document	2	251	0	0	na	1548680423
@@ -1087,7 +1118,7 @@ Sorena52050860	answer	52050860	na	na	na	na	59234554	1575801531	no	na
 499194	answer	48048279	na	na	na	na	48286813	1516123861	no	na
 10864241	answer	48048279	na	na	na	na	58546340	1571937724	no	na
 10129631	answer	48048279	na	na	na	na	59234132	1575797895	no	na
-9015771	question	48048279	True	TypeError: Cannot read property &#39;_uploadFiles&#39; of undefined in google colaboratory	4	4779	0	0	na	1514796134
+9015771	question	48048279	True	TypeError: Cannot read property &#39;_uploadFiles&#39; of undefined in google colaboratory	4	4780	0	0	na	1514796134
 4124317	answer	48853667	na	na	na	na	48853746	1518970244	yes	na
 5733842	question	48853667	True	python matplot.hist - remove gaps between bars	1	1028	0	0	na	1518969859
 10938273	answer	54238303	na	na	na	na	54269848	1547920613	no	na
@@ -1099,7 +1130,7 @@ Sorena52050860	answer	52050860	na	na	na	na	59234554	1575801531	no	na
 3397819	answer	56310898	na	na	na	na	57130772	1563689597	no	na
 1609925	answer	56310898	na	na	na	na	58066593	1569256192	no	na
 254436	answer	56310898	na	na	na	na	59233668	1575793468	no	na
-10446619	question	56310898	True	FutureWarning: Method .ptp	4	2840	0	0	na	1558848551
+10446619	question	56310898	True	FutureWarning: Method .ptp	4	2844	0	0	na	1558848551
 1380994	answer	49678975	na	na	na	na	50419316	1526677790	yes	na
 6714013	answer	49678975	na	na	na	na	59233635	1575793118	no	na
 2355259	question	49678975	True	python fedex api problems	2	588	0	0	na	1522952321
@@ -1110,10 +1141,10 @@ Sorena52050860	answer	52050860	na	na	na	na	59234554	1575801531	no	na
 2365534	answer	50337843	na	na	na	na	50337971	1526327393	no	na
 5178905	answer	50337843	na	na	na	na	50338088	1526327869	no	na
 2336654	answer	50337843	na	na	na	na	50338374	1526328979	no	na
-4439019	question	50337843	True	Extract file name from read_csv - Python	5	6320	0	0	na	1526326732
+4439019	question	50337843	True	Extract file name from read_csv - Python	5	6323	0	0	na	1526326732
 2650249	answer	57216970	na	na	na	na	57217799	1564135674	yes	na
 5042136	answer	57216970	na	na	na	na	59229559	1575747763	no	na
-6340816	question	57216970	True	write pytest test function return value to file with pytest.hookimpl	2	149	0	0	na	1564133019
+6340816	question	57216970	True	write pytest test function return value to file with pytest.hookimpl	2	152	0	0	na	1564133019
 1462770	answer	53809944	na	na	na	na	53810378	1545030455	no	na
 6672746	answer	53809944	na	na	na	na	59232768	1575783622	no	na
 10347288	question	53809944	False	Keras Functional API Multiple Input Model	2	424	0	0	na	1545028091
@@ -1133,7 +1164,7 @@ Sorena52050860	answer	52050860	na	na	na	na	59234554	1575801531	no	na
 1552260	question	53995857	True	How bind/map global hotkey using Python Tkinter?	3	141	0	0	na	1546349522
 10628833	answer	57579110	na	na	na	na	57666120	1566863387	no	na
 8404743	answer	57579110	na	na	na	na	59231079	1575760540	no	na
-10628833	question	57579110	True	How to fix &quot;Access-Control-Allow-Origin&quot; error in a python socket-io server	2	362	0	0	na	1566323437
+10628833	question	57579110	True	How to fix &quot;Access-Control-Allow-Origin&quot; error in a python socket-io server	2	363	0	0	na	1566323437
 6243352	answer	53527850	na	na	na	na	53527895	1543438207	yes	na
 6671176	answer	53527850	na	na	na	na	53527901	1543438234	no	na
 3487040	answer	53527850	na	na	na	na	53527924	1543438378	no	na
@@ -1145,18 +1176,18 @@ Sorena52050860	answer	52050860	na	na	na	na	59234554	1575801531	no	na
 7694555	question	48722899	False	ray intersection misses the target	1	257	0	0	na	1518279796
 2654002	answer	57422899	na	na	na	na	57517449	1565912793	no	na
 263858	answer	57422899	na	na	na	na	59230810	1575757867	no	na
-1326969	question	57422899	True	ModuleNotFoundError: No module named... Jupyter Notebooks	2	306	0	0	na	1565318684
+1326969	question	57422899	True	ModuleNotFoundError: No module named... Jupyter Notebooks	2	307	0	0	na	1565318684
 5577765	answer	54169613	na	na	na	na	56818080	1561816297	no	na
 5577765	question	54169613	False	How to initialize a buffer object&#39;s data store with data from PyGLM?	1	139	0	0	na	1547388048
 10344337	answer	52234915	na	na	na	na	52266148	1536617296	no	na
 11117944	answer	52234915	na	na	na	na	59229948	1575750884	no	na
 1987469	question	52234915	True	Paypal | Can I accept credit card payments using Paypal	2	113	0	0	na	1536406537
 11123771	answer	51602617	na	na	na	na	59224228	1575706928	no	na
-8517676	question	51602617	False	Improper token passed	1	1045	0	0	na	1532986581
+8517676	question	51602617	False	Improper token passed	1	1046	0	0	na	1532986581
 5082048	answer	57988620	na	na	na	na	58158765	1569787375	yes	na
 5210052	question	57988620	True	How to better preprocess images for a better deep learning result?	1	88	0	0	na	1568796312
 1356000	answer	51491487	na	na	na	na	51492581	1532416295	yes	na
-8270077	question	51491487	True	Label is not appearing in Seaborn distplot	1	1511	0	0	na	1532412183
+8270077	question	51491487	True	Label is not appearing in Seaborn distplot	1	1513	0	0	na	1532412183
 11596014	answer	50565735	na	na	na	na	59229147	1575744186	no	na
 9770346	question	50565735	False	Big Query table create and load data via Python	1	587	0	0	na	1527508135
 5741205	answer	48155787	na	na	na	na	48155811	1515435039	yes	na
@@ -1183,24 +1214,24 @@ Sorena52050860	answer	52050860	na	na	na	na	59234554	1575801531	no	na
 3952030	answer	56942670	na	na	na	na	58888513	1573889050	no	na
 3020051	answer	56942670	na	na	na	na	58924246	1574118389	no	na
 11154841	answer	56942670	na	na	na	na	59228661	1575740518	no	na
-4885154	question	56942670	True	matplotlib/seaborn: first and last row cut in half of heatmap plot	6	9205	0	0	na	1562620725
+4885154	question	56942670	True	matplotlib/seaborn: first and last row cut in half of heatmap plot	6	9210	0	0	na	1562620725
 2773979	answer	51012032	na	na	na	na	51012574	1529863145	no	na
 8645590	answer	51012032	na	na	na	na	57792405	1567614107	no	na
 12493460	answer	51012032	na	na	na	na	59220321	1575666275	no	na
-9985647	question	51012032	True	&quot;No module named &#39;_sqlite3&#39;&quot; when running Django&#39;s &quot;python3 manage.py migrate&quot;	3	786	0	0	na	1529859137
+9985647	question	51012032	True	&quot;No module named &#39;_sqlite3&#39;&quot; when running Django&#39;s &quot;python3 manage.py migrate&quot;	3	787	0	0	na	1529859137
 900749	answer	56965526	na	na	na	na	56974611	1562774556	no	na
 7840442	answer	56965526	na	na	na	na	59228307	1575738038	yes	na
-900749	question	56965526	True	Jupyter &quot;500: Internal Server Error&quot;; &quot;ImportError: cannot import name ConverterMapping&quot;	2	780	0	0	na	1562743780
+900749	question	56965526	True	Jupyter &quot;500: Internal Server Error&quot;; &quot;ImportError: cannot import name ConverterMapping&quot;	2	784	0	0	na	1562743780
 3020057	answer	56828663	na	na	na	na	56906613	1562344604	no	na
 3722257	answer	56828663	na	na	na	na	59228282	1575737850	no	na
 1436150	question	56828663	True	How to explicitly set samesite=None on a flask response	2	787	0	0	na	1561936421
 4932316	answer	52503203	na	na	na	na	52503312	1537894641	yes	na
 12183223	answer	52503203	na	na	na	na	59227895	1575735118	no	na
-6242883	question	52503203	True	Horizontal bar chart from right to left in matplotlib	2	1851	0	0	na	1537894238
+6242883	question	52503203	True	Horizontal bar chart from right to left in matplotlib	2	1852	0	0	na	1537894238
 4967798	question	51603822	False	Why doesn&#39;t XLSXWRITER create a file once my Kivy app is compliled into an APK?	0	76	0	0	na	1532995921
 3005167	answer	49902585	na	na	na	na	49903262	1524064289	no	na
 1487355	answer	49902585	na	na	na	na	50186036	1525498039	no	na
-9664625	question	49902585	True	How to fixed &quot;polyfit maybe poorly conditioned&quot; in numpy?	2	6387	0	0	na	1524062397
+9664625	question	49902585	True	How to fixed &quot;polyfit maybe poorly conditioned&quot; in numpy?	2	6388	0	0	na	1524062397
 5079316	answer	50520222	na	na	na	na	50520676	1527215597	no	na
 6064933	answer	50520222	na	na	na	na	53941081	1545894442	no	na
 6903399	question	50520222	True	Get the character that a Unicode code point corresponds	2	919	0	0	na	1527211486
@@ -1223,7 +1254,7 @@ Sorena52050860	answer	52050860	na	na	na	na	59234554	1575801531	no	na
 10924296	answer	54526470	na	na	na	na	54526980	1549333246	no	na
 9917504	answer	54526470	na	na	na	na	54555294	1549461361	yes	na
 7974398	answer	54526470	na	na	na	na	59223377	1575697616	no	na
-3225420	question	54526470	True	Concatenate Movies from Python List using MoviePy or FFmpeg	3	357	0	0	na	1549328098
+3225420	question	54526470	True	Concatenate Movies from Python List using MoviePy or FFmpeg	3	358	0	0	na	1549328098
 12018177	answer	57965699	na	na	na	na	57969064	1568704217	no	na
 12009881	answer	57965699	na	na	na	na	58418764	1571247023	no	na
 12009881	question	57965699	False	In my django app, how to show all posts of similar category if that category is selected?	2	40	0	0	na	1568678253
@@ -1239,9 +1270,9 @@ Sorena52050860	answer	52050860	na	na	na	na	59234554	1575801531	no	na
 62539	question	53992370	True	pyenv failed to download a existing version of Python	3	405	0	0	na	1546303483
 3902974	answer	55013809	na	na	na	na	55094597	1552272329	no	na
 5042169	answer	55013809	na	na	na	na	59222904	1575691772	no	na
-9291766	question	55013809	False	How to update python 3.6 to 3.7 using Mac terminal	2	3854	0	0	na	1551833004
+9291766	question	55013809	False	How to update python 3.6 to 3.7 using Mac terminal	2	3857	0	0	na	1551833004
 634627	answer	51232957	na	na	na	na	51233067	1531060939	yes	na
-8028924	question	51232957	True	How can I use an uploaded CSV file in my flask app?	1	1627	0	0	na	1531060193
+8028924	question	51232957	True	How can I use an uploaded CSV file in my flask app?	1	1628	0	0	na	1531060193
 273637	answer	53968770	na	na	na	na	53968771	1546079945	no	na
 1608062	answer	53968770	na	na	na	na	59222319	1575683348	no	na
 273637	question	53968770	True	How to set up local file references in python-jsonschema document?	2	1452	0	0	na	1546079945
@@ -1254,11 +1285,11 @@ Sorena52050860	answer	52050860	na	na	na	na	59234554	1575801531	no	na
 8172933	answer	52571144	na	na	na	na	52571305	1538245531	no	na
 3657919	answer	52571144	na	na	na	na	52571314	1538245585	no	na
 769308	answer	52571144	na	na	na	na	52571440	1538246581	yes	na
-821275	question	52571144	True	What is the Pythonic way to remove &quot;Bearer &quot; from the HTTP authorization header	3	566	0	0	na	1538244512
+821275	question	52571144	True	What is the Pythonic way to remove &quot;Bearer &quot; from the HTTP authorization header	3	567	0	0	na	1538244512
 4942590	answer	48698536	na	na	na	na	48698875	1518151557	no	na
 1586947	answer	48698536	na	na	na	na	48925479	1519296516	no	na
 3265828	answer	48698536	na	na	na	na	50189920	1525526434	yes	na
-4942590	question	48698536	True	(Tensorflow-GPU) import tensorflow ImportError: Could not find &#39;cudnn64_7.dll&#39;	3	14686	0	0	na	1518148733
+4942590	question	48698536	True	(Tensorflow-GPU) import tensorflow ImportError: Could not find &#39;cudnn64_7.dll&#39;	3	14694	0	0	na	1518148733
 12072431	answer	58066945	na	na	na	na	58071263	1569281029	yes	na
 1831686	answer	58066945	na	na	na	na	59221775	1575676548	no	na
 7974847	question	58066945	True	AWS CodeBuild Colorized logs	2	101	0	0	na	1569257552
@@ -1282,7 +1313,7 @@ Sorena52050860	answer	52050860	na	na	na	na	59234554	1575801531	no	na
 10880333	question	54422312	True	Why does pycharm not recognize my pytest tests and show the test output?	3	708	0	0	na	1548768904
 7814637	answer	55813584	na	na	na	na	56596552	1560509058	no	na
 3626138	answer	55813584	na	na	na	na	59221315	1575672610	no	na
-8006728	question	55813584	True	Django WhiteNoise configuration is incompatible with WhiteNoise v4.0	2	2112	0	0	na	1556030026
+8006728	question	55813584	True	Django WhiteNoise configuration is incompatible with WhiteNoise v4.0	2	2113	0	0	na	1556030026
 8722921	question	57944074	False	Why can&#39;t I import anything of pyjnius besides jnius?	0	64	0	0	na	1568550287
 8701024	answer	55187376	na	na	na	na	55192255	1552695694	yes	na
 877192	question	55187376	True	Bokeh how to get GlyphRenderer for Annotation	1	404	0	0	na	1552668929
@@ -1300,15 +1331,15 @@ Sorena52050860	answer	52050860	na	na	na	na	59234554	1575801531	no	na
 3592827	answer	57242208	na	na	na	na	58217260	1570098742	no	na
 10368811	answer	57242208	na	na	na	na	58782985	1573329278	no	na
 7887458	answer	57242208	na	na	na	na	59218996	1575659565	no	na
-10318362	question	57242208	True	How to resolve the error, &quot;module umap has no attribute UMAP&quot;.. I tried installing &amp; reinstalling umap but didn&#39;t work to me	4	1008	0	0	na	1564326922
+10318362	question	57242208	True	How to resolve the error, &quot;module umap has no attribute UMAP&quot;.. I tried installing &amp; reinstalling umap but didn&#39;t work to me	4	1009	0	0	na	1564326922
 7718577	answer	56783087	na	na	na	na	56783254	1561603946	yes	na
 10901600	question	56783087	True	KeyError: class &#39;numpy.object_&#39; while downloading image dataset using imread	1	115	0	0	na	1561602217
 5200329	answer	56009504	na	na	na	na	56009587	1557162461	yes	na
 2394952	answer	56009504	na	na	na	na	56009591	1557162464	no	na
-10799544	question	56009504	True	How to exclude and filter few columns in pandas?	2	630	0	0	na	1557162098
+10799544	question	56009504	True	How to exclude and filter few columns in pandas?	2	631	0	0	na	1557162098
 2216021	answer	56406862	na	na	na	na	56436531	1559614398	no	na
 11983252	answer	56406862	na	na	na	na	57673008	1566902737	yes	na
-5249411	question	56406862	True	Installing Tensorflow and Keras on Intel Pentium	2	426	0	0	na	1559392949
+5249411	question	56406862	True	Installing Tensorflow and Keras on Intel Pentium	2	427	0	0	na	1559392949
 11227781	answer	55301343	na	na	na	na	55355445	1553597830	yes	na
 3437787	question	55301343	True	How to define the structure of a sankey diagram using a dataframe?	1	1656	0	0	na	1553263461
 298607	answer	51197910	na	na	na	na	51198150	1530816887	no	na
@@ -1342,12 +1373,12 @@ Sorena52050860	answer	52050860	na	na	na	na	59234554	1575801531	no	na
 1055279	answer	51167099	na	na	na	na	51684183	1533374326	no	na
 2025949	answer	51167099	na	na	na	na	54217850	1547644446	no	na
 12491741	answer	51167099	na	na	na	na	59215569	1575644487	no	na
-3680098	question	51167099	True	Installing Ansible Python package on Windows	4	6800	0	0	na	1530685744
+3680098	question	51167099	True	Installing Ansible Python package on Windows	4	6803	0	0	na	1530685744
 2099607	answer	53446905	na	na	na	na	53447141	1542977752	yes	na
 9468014	question	53446905	True	How should I interpret the output of the sparse_categorical_crossentropy function?	1	868	0	0	na	1542976834
 5320906	answer	53689540	na	na	na	na	53712507	1544470850	yes	na
 12492206	answer	53689540	na	na	na	na	59216509	1575648089	no	na
-10765553	question	53689540	True	re.error: missing ), unterminated subpattern at position 0 when installing via pip	2	678	0	0	na	1544331676
+10765553	question	53689540	True	re.error: missing ), unterminated subpattern at position 0 when installing via pip	2	679	0	0	na	1544331676
 7540322	answer	51512519	na	na	na	na	59216818	1575649356	no	na
 1352932	question	51512519	False	pipenv: How to resolve dependency conflicts	1	1158	0	0	na	1532501478
 1662259	question	54124613	False	Optional Dependencies in Luigi	0	141	0	0	na	1547109152
@@ -1362,7 +1393,7 @@ Sorena52050860	answer	52050860	na	na	na	na	59234554	1575801531	no	na
 11374349	answer	57902387	na	na	na	na	58079028	1569323589	no	na
 3134944	answer	57902387	na	na	na	na	58081290	1569331261	no	na
 1091141	answer	57902387	na	na	na	na	59215925	1575645876	no	na
-6244166	question	57902387	True	Matrix Factorization in tensorflow 2.0 using WALS Method	4	290	0	0	na	1568275774
+6244166	question	57902387	True	Matrix Factorization in tensorflow 2.0 using WALS Method	4	291	0	0	na	1568275774
 2166823	answer	57446612	na	na	na	na	57447097	1565492879	yes	na
 2166823	question	57446612	True	Prevent the colormap to be rescaled when using datashader to rerender an image as it is zoomed in	1	42	0	0	na	1565484542
 9065083	answer	51197774	na	na	na	na	51198397	1530818009	no	na
@@ -1389,7 +1420,7 @@ Sorena52050860	answer	52050860	na	na	na	na	59234554	1575801531	no	na
 2901002	answer	51878601	na	na	na	na	51878680	1534427341	no	na
 7454639	answer	51878601	na	na	na	na	51878693	1534427362	no	na
 12491510	answer	51878601	na	na	na	na	59213893	1575637926	no	na
-4049762	question	51878601	True	pandas: dataframe to_csv, how to set column names	3	17525	0	0	na	1534427147
+4049762	question	51878601	True	pandas: dataframe to_csv, how to set column names	3	17531	0	0	na	1534427147
 2874583	answer	51831559	na	na	na	na	59138963	1575289749	no	na
 1329296	answer	51831559	na	na	na	na	59190941	1575534342	no	na
 636626	answer	51831559	na	na	na	na	59192271	1575539185	no	na
@@ -1412,7 +1443,7 @@ ShuehCheng Hu53581023	answer	53581023	na	na	na	na	55761253	1555673936	no	na
 3895259	answer	48145992	na	na	na	na	48164310	1515487618	yes	na
 4478977	answer	48145992	na	na	na	na	52627264	1538570435	no	na
 9517224	answer	48145992	na	na	na	na	59212629	1575633128	no	na
-3895259	question	48145992	True	Showing json field in Django admin	3	3381	0	0	na	1515396977
+3895259	question	48145992	True	Showing json field in Django admin	3	3382	0	0	na	1515396977
 5592286	answer	56271116	na	na	na	na	58504084	1571746561	yes	na
 11236759	question	56271116	True	Flask-SQLAlchemy: SQLALCHEMY_ENGINE_OPTIONS not set up correctly	1	867	0	0	na	1558600276
 8373158	answer	54022783	na	na	na	na	59212144	1575631209	no	na
@@ -1426,7 +1457,7 @@ ShuehCheng Hu53581023	answer	53581023	na	na	na	na	55761253	1555673936	no	na
 2439376	question	53920611	False	Using Python + Selenium for Electron-based app testing	1	330	0	0	na	1545726394
 9209546	answer	51619615	na	na	na	na	51619765	1533061246	yes	na
 5695018	answer	51619615	na	na	na	na	51619772	1533061298	no	na
-9553450	question	51619615	True	Calculate days until your next birthday in python	2	2874	0	0	na	1533060699
+9553450	question	51619615	True	Calculate days until your next birthday in python	2	2875	0	0	na	1533060699
 2008193	answer	53114668	na	na	na	na	55082963	1552173691	no	na
 7290715	question	53114668	True	python imblearn make_pipeline TypeError: Last step of Pipeline should implement fit	1	1026	0	0	na	1541145353
 9503381	answer	49417827	na	na	na	na	49450015	1521809194	no	na
@@ -1445,7 +1476,7 @@ ShuehCheng Hu53581023	answer	53581023	na	na	na	na	55761253	1555673936	no	na
 1008596	answer	52805115	na	na	na	na	57890137	1568207901	no	na
 6174268	answer	52805115	na	na	na	na	58525755	1571842724	no	na
 620672	answer	52805115	na	na	na	na	59209977	1575623283	no	na
-1943192	question	52805115	True	certificate verify failed: unable to get local issuer certificate	4	26286	0	0	na	1539537139
+1943192	question	52805115	True	certificate verify failed: unable to get local issuer certificate	4	26304	0	0	na	1539537139
 7212273	answer	53453117	na	na	na	na	59209928	1575623054	no	na
 8005373	question	53453117	False	TypeError: isinstance() arg 2 must be a type or tuple of types	1	1853	0	0	na	1543008479
 11451509	answer	56895109	na	na	na	na	56959899	1562703094	no	na
@@ -1478,28 +1509,3 @@ ShuehCheng Hu53581023	answer	53581023	na	na	na	na	55761253	1555673936	no	na
 7363687	question	53148335	False	How do I use a KCF tracker with an RGB and HFV mask?	1	107	0	0	na	1541391988
 8755789	answer	48654211	na	na	na	na	59207159	1575608647	no	na
 6583273	question	48654211	True	Python (DFS): Please explain this clearly to me: stack.extend(graph[vertex] - visited)	1	136	0	0	na	1517963846
-3110740	answer	53318600	na	na	na	na	53432163	1542893633	no	na
-490787	answer	53318600	na	na	na	na	59207058	1575607855	yes	na
-3110740	question	53318600	True	Disable joblib.memory caching globally during unittest	2	93	0	0	na	1542281778
-6632199	answer	49896067	na	na	na	na	49896348	1524044504	no	na
-11568022	answer	49896067	na	na	na	na	59206986	1575607269	no	na
-7979704	question	49896067	False	Jupiter Python seaborn heatmap not showing all correlations	2	943	0	0	na	1524043739
-user417190649269755	answer	49269755	na	na	na	na	49290111	1521076845	no	na
-3159059	answer	49269755	na	na	na	na	59206969	1575607137	no	na
-6379313	question	49269755	False	How to rotate ellipse in tkinter canvas?	2	642	0	0	na	1521001313
-1600898	answer	48621360	na	na	na	na	48625510	1517843261	yes	na
-2846140	answer	48621360	na	na	na	na	48629007	1517854824	no	na
-1548129	question	48621360	True	Does asyncio from python support coroutine-based API for UDP networking?	2	2615	0	0	na	1517829304
-12489198	answer	56598701	na	na	na	na	59206626	1575604530	no	na
-11629031	question	56598701	False	How to get variables and .pb file from checkpoint in TensorFlow?	1	39	0	0	na	1560517122
-5898523	question	53553147	False	Fatal error: &#39;my_config.h&#39; file not found on Mac Mojave during install of Python MySQL	0	1292	0	0	na	1543563254
-8331756	answer	49109791	na	na	na	na	50089969	1525026921	no	na
-8544781	answer	49109791	na	na	na	na	52560616	1538157846	no	na
-5105995	answer	49109791	na	na	na	na	58829824	1573615141	no	na
-10824697	answer	49109791	na	na	na	na	58862747	1573753013	no	na
-9103590	question	49109791	True	Django or Django Rest Framework	4	12194	0	0	na	1520250397
-6246044	answer	54614157	na	na	na	na	54615697	1549796298	no	na
-4996248	answer	54614157	na	na	na	na	54616150	1549800098	no	na
-4685471	answer	54614157	na	na	na	na	54618898	1549818787	yes	na
-5890373	answer	54614157	na	na	na	na	59205979	1575599183	no	na
-8723890	question	54614157	True	scikit-learn &amp; statsmodels - which R-squared is correct?	4	1460	0	0	na	1549782266
