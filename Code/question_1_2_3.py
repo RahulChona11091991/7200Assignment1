@@ -121,18 +121,24 @@ for index in range(9):
                                 # bestAnswerId,
                                 # maxUpvoteCount
                         ))
-                        nonBestAnswerVoteCount = answerItem['up_vote_count']
-                        edgeWeight = float(float(nonBestAnswerVoteCount)/float(maxUpvoteCount))
-                        # print edgeWeight
-                        with open('./data/4-VBEN.tsv', 'a+') as output:
-                            output.write('{}\t{}\t{}\n'.format(
-                                nonBestAnswererId,
-                                bestAnswererId,
-                                edgeWeight,
-                                # questionId,
-                                # bestAnswerId,
-                                # maxUpvoteCount
-                        ))
+
+                        for answerSubItem in i2['answers']:
+                            itemAnswerVoteCount = answerItem['up_vote_count']
+                            subItemAnswerVoteCount = answerSubItem['up_vote_count']
+
+                            if itemAnswerVoteCount  != subItemAnswerVoteCount:
+                                if subItemAnswerVoteCount < itemAnswerVoteCount :
+                                    # edgeWeight = float(float(nonBestAnswerVoteCount)/float(maxUpvoteCount))
+                                    edgeWeight = itemAnswerVoteCount - subItemAnswerVoteCount
+                                    with open('./data/4-VBEN.tsv', 'a+') as output:
+                                        output.write('{}\t{}\t{}\n'.format(
+                                            nonBestAnswererId,
+                                            bestAnswererId,
+                                            edgeWeight,
+                                            # questionId,
+                                            # bestAnswerId,
+                                            # maxUpvoteCount
+                                    ))
 
                     answererId = answerItem['owner']['user_id'] if answerItem['owner']['user_type'] == 'registered' else (answerItem['owner']['display_name'] + str(i2['question_id']))
                     questionVoteCount = i2['up_vote_count']

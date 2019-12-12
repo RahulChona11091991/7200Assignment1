@@ -24,7 +24,7 @@ poster_user_id	post_type	question_id	is_answered	question_title	answer_count	vie
 6134679	answer	50322001	na	na	na	na	56496840	1559919769	no	na
 11589199	answer	50322001	na	na	na	na	58446329	1571385220	no	na
 4402501	answer	50322001	na	na	na	na	58753741	1573146237	no	na
-610569	question	50322001	True	How to save/load a tensorflow hub module to/from a custom path?	5	6485	0	0	na	1526260072
+610569	question	50322001	True	How to save/load a tensorflow hub module to/from a custom path?	5	6486	0	0	na	1526260072
 712995	answer	48893528	na	na	na	na	49073626	1520009225	yes	na
 1866775	answer	48893528	na	na	na	na	58602751	1572332966	no	na
 1866775	question	48893528	True	keras vs. tensorflow.python.keras - which one to use?	2	3977	0	0	na	1519157813
@@ -52,7 +52,7 @@ poster_user_id	post_type	question_id	is_answered	question_title	answer_count	vie
 5974433	answer	49124814	na	na	na	na	49126505	1520325509	no	na
 8186293	question	49124814	True	What are the uses of tf.space_to_depth?	1	445	0	0	na	1520318554
 5974433	answer	49263487	na	na	na	na	49272987	1521016609	no	na
-8067584	question	49263487	True	Keras SeparableConv2D simple example?	1	869	0	0	na	1520966068
+8067584	question	49263487	True	Keras SeparableConv2D simple example?	1	870	0	0	na	1520966068
 1721793	answer	48482746	na	na	na	na	48482961	1517110935	no	na
 1340606	answer	48482746	na	na	na	na	48488770	1517157973	yes	na
 588855	question	48482746	True	TFLearn - What is input_data	2	1395	0	0	na	1517108140
@@ -97,7 +97,7 @@ poster_user_id	post_type	question_id	is_answered	question_title	answer_count	vie
 5196692	answer	49433936	na	na	na	na	56037200	1557306496	no	na
 5884955	answer	49433936	na	na	na	na	56773737	1561554993	no	na
 3867406	answer	49433936	na	na	na	na	57116138	1563552526	no	na
-604734	question	49433936	True	How to initialize weights in PyTorch?	7	84313	0	0	na	1521736482
+604734	question	49433936	True	How to initialize weights in PyTorch?	7	84316	0	0	na	1521736482
 9582060	answer	49311929	na	na	na	na	49598461	1522588423	no	na
 2204803	answer	49311929	na	na	na	na	51004211	1529780315	no	na
 2668545	answer	49311929	na	na	na	na	52980903	1540437965	yes	na
@@ -109,7 +109,7 @@ poster_user_id	post_type	question_id	is_answered	question_title	answer_count	vie
 1934212	question	50781562	True	Stratified splitting of pandas dataframe in training, validation and test set	2	5119	0	0	na	1528616582
 3626052	answer	50007085	na	na	na	na	51939330	1534804399	no	na
 faraz faraz50007085	answer	50007085	na	na	na	na	57230515	1564216486	no	na
-7256784	question	50007085	True	Converting Pytorch model .pth into onnx model	2	2759	0	0	na	1524588690
+7256784	question	50007085	True	Converting Pytorch model .pth into onnx model	2	2761	0	0	na	1524588690
 8050962	answer	49803266	na	na	na	na	57211150	1564095808	no	na
 7068717	question	49803266	False	How to obtain the gradient of the categorical_cross_entropy on Keras using Tensorflow backend?	1	255	0	0	na	1523556370
 2956066	answer	50882282	na	na	na	na	50882752	1529097294	no	na
@@ -123,13 +123,13 @@ faraz faraz50007085	answer	50007085	na	na	na	na	57230515	1564216486	no	na
 4525474	answer	50125844	na	na	na	na	50134698	1525264180	yes	na
 2628369	answer	50125844	na	na	na	na	53231071	1541786409	no	na
 2742811	answer	50125844	na	na	na	na	54431114	1548804045	no	na
-9028779	question	50125844	True	How to standard scale a 3D matrix?	3	6155	0	0	na	1525223172
+9028779	question	50125844	True	How to standard scale a 3D matrix?	3	6156	0	0	na	1525223172
 5851928	answer	48819022	na	na	na	na	48819163	1518747091	yes	na
 7933838	question	48819022	True	Recalling function: Tensor &#39;object&#39; is not callable	1	3459	0	0	na	1518745746
 1670642	answer	49790025	na	na	na	na	49854222	1523871860	no	na
 5008606	answer	49790025	na	na	na	na	49856665	1523879543	no	na
 11051372	answer	49790025	na	na	na	na	56876674	1562181359	no	na
-9147788	question	49790025	True	How to reconnect to the ongoing process on GoogleColab	3	1697	0	0	na	1523516532
+9147788	question	49790025	True	How to reconnect to the ongoing process on GoogleColab	3	1698	0	0	na	1523516532
 8471178	question	49097124	False	How to train LSTM model using data of variable timestep in Keras?	0	502	0	0	na	1520178096
 1313897	answer	49398255	na	na	na	na	49546835	1522288463	no	na
 5302905	answer	49398255	na	na	na	na	50140036	1525280815	yes	na
@@ -140,13 +140,13 @@ faraz faraz50007085	answer	50007085	na	na	na	na	57230515	1564216486	no	na
 2956066	answer	50718045	na	na	na	na	50720072	1528287051	yes	na
 4758972	answer	50718045	na	na	na	na	50722403	1528293777	no	na
 6830722	answer	50718045	na	na	na	na	56713356	1561186987	no	na
-7295767	question	50718045	True	Resize PyTorch Tensor	3	12189	0	0	na	1528280610
+7295767	question	50718045	True	Resize PyTorch Tensor	3	12191	0	0	na	1528280610
 624547	answer	50544730	na	na	na	na	50544887	1527352439	yes	na
 604734	answer	50544730	na	na	na	na	51768651	1533822110	no	na
 207661	answer	50544730	na	na	na	na	52284619	1536702383	no	na
 5884955	answer	50544730	na	na	na	na	56672709	1560963806	no	na
 5884955	answer	50544730	na	na	na	na	56673095	1560965503	no	na
-4229637	question	50544730	True	How do I split a custom dataset into training and test datasets?	5	38742	0	0	na	1527351364
+4229637	question	50544730	True	How do I split a custom dataset into training and test datasets?	5	38746	0	0	na	1527351364
 9393102	answer	50405987	na	na	na	na	50410954	1526645035	yes	na
 11645586	answer	50405987	na	na	na	na	56590468	1560477124	no	na
 6470853	question	50405987	True	In `tf.estimator`, how to `tf.assign` a variable at end of training (not at every iteration)?	2	556	0	0	na	1526628432
@@ -195,10 +195,10 @@ user970343950054419	answer	50054419	na	na	na	na	50055502	1524805047	no	na
 7579393	answer	50753477	na	na	na	na	54247498	1547783191	no	na
 6002424	question	50753477	True	What does data.norm() &lt; 1000 do in PyTorch?	3	4889	0	0	na	1528432907
 7137636	answer	49969006	na	na	na	na	50005651	1524584008	yes	na
-8201676	question	49969006	True	save and load keras.callbacks.History	1	5747	0	0	na	1524419748
+8201676	question	49969006	True	save and load keras.callbacks.History	1	5748	0	0	na	1524419748
 5036521	answer	49794023	na	na	na	na	49817506	1523623985	no	na
 5208522	answer	49794023	na	na	na	na	55460339	1554138670	no	na
-5036521	question	49794023	True	Use Keras model with Flatten layer inside OpenCV 3	2	1438	0	0	na	1523528387
+5036521	question	49794023	True	Use Keras model with Flatten layer inside OpenCV 3	2	1439	0	0	na	1523528387
 3261772	answer	49162202	na	na	na	na	55409890	1553828538	no	na
 5550546	question	49162202	False	Usage of &#39;learning_phase&#39; in keras for tensorflow backend?	1	1893	0	0	na	1520461440
 9691861	answer	49206869	na	na	na	na	50004596	1524581197	no	na
@@ -210,7 +210,7 @@ user970343950054419	answer	50054419	na	na	na	na	50055502	1524805047	no	na
 5795888	question	50308479	False	How to use a pre-trained TensorFlow net in Keras loss function	1	239	0	0	na	1526142996
 349130	answer	49834380	na	na	na	na	49834968	1523731586	yes	na
 11202889	answer	49834380	na	na	na	na	55162207	1552565363	no	na
-8815081	question	49834380	True	K.gradients(loss, input_img)[0] return &quot;None&quot;. (Keras CNN visualization with tensorflow backend)	2	5644	0	0	na	1523727791
+8815081	question	49834380	True	K.gradients(loss, input_img)[0] return &quot;None&quot;. (Keras CNN visualization with tensorflow backend)	2	5646	0	0	na	1523727791
 992489	answer	49584489	na	na	na	na	51429630	1532025062	no	na
 648946	answer	49584489	na	na	na	na	55072266	1552086663	no	na
 9577549	question	49584489	True	How to reuse a data batch from iterator.get_next()	2	362	0	0	na	1522473383
@@ -245,7 +245,7 @@ skitzcoder50005092	answer	50005092	na	na	na	na	54639931	1549923069	no	na
 9411147	question	48981022	False	what is the difference between tf.nn.convolution and tf.nn.conv2d?	2	1025	0	0	na	1519615685
 5997950	answer	49674860	na	na	na	na	50216257	1525702088	no	na
 9944045	answer	49674860	na	na	na	na	54373965	1548457582	no	na
-7627058	question	49674860	True	Tensorflow DeepLab: Shape mismatch in tuple component 1. Expected [x,x,3], got [y,y,3]	2	2068	0	0	na	1522938390
+7627058	question	49674860	True	Tensorflow DeepLab: Shape mismatch in tuple component 1. Expected [x,x,3], got [y,y,3]	2	2069	0	0	na	1522938390
 3794110	answer	50874279	na	na	na	na	50875053	1529063524	no	na
 9697805	question	50874279	True	Can my prediction score be too high (100 % for one class) on keras with tensorflow as backend?	1	216	0	0	na	1529060654
 7229417	answer	48054531	na	na	na	na	48123076	1515198162	yes	na
@@ -267,7 +267,7 @@ skitzcoder50005092	answer	50005092	na	na	na	na	54639931	1549923069	no	na
 200669	answer	49005892	na	na	na	na	54206401	1547584353	no	na
 5722540	question	49005892	True	Keras: Confusion matrix at every epoch	1	1090	0	0	na	1519725591
 4728650	answer	48274929	na	na	na	na	48278089	1516095333	yes	na
-4728650	question	48274929	True	Pytorch - RuntimeError: Trying to backward through the graph a second time, but the buffers have already been freed	1	10243	0	0	na	1516082266
+4728650	question	48274929	True	Pytorch - RuntimeError: Trying to backward through the graph a second time, but the buffers have already been freed	1	10244	0	0	na	1516082266
 3796822	answer	49589088	na	na	na	na	54098480	1546975712	no	na
 9578978	question	49589088	False	How to Share Object in multiprocesing, python	1	52	0	0	na	1522508330
 5516760	answer	48547660	na	na	na	na	48579175	1517562313	no	na
@@ -285,7 +285,7 @@ skitzcoder50005092	answer	50005092	na	na	na	na	54639931	1549923069	no	na
 1040719	question	48447371	True	Resume training with multi_gpu_model in Keras	2	731	0	0	na	1516896838
 4139024	answer	48529625	na	na	na	na	48531451	1517350705	no	na
 207661	answer	48529625	na	na	na	na	53998860	1546375970	no	na
-8874373	question	48529625	True	In PyTorch how are layer weights and biases initialized by default?	2	2853	0	0	na	1517342620
+8874373	question	48529625	True	In PyTorch how are layer weights and biases initialized by default?	2	2854	0	0	na	1517342620
 977102	answer	50036892	na	na	na	na	50051274	1524774204	yes	na
 6177463	question	50036892	True	Keras layers unfreezing causes training process to start from scratch	1	631	0	0	na	1524726636
 9977308	answer	50434710	na	na	na	na	53919184	1545709458	no	na
@@ -408,7 +408,7 @@ skitzcoder50005092	answer	50005092	na	na	na	na	54639931	1549923069	no	na
 1924843	answer	48618525	na	na	na	na	48623993	1517838296	yes	na
 9400155	answer	48618525	na	na	na	na	48942550	1519368282	no	na
 8926905	answer	48618525	na	na	na	na	51855895	1534324067	no	na
-3979919	question	48618525	True	Keras MSE definition	3	2321	0	0	na	1517819850
+3979919	question	48618525	True	Keras MSE definition	3	2322	0	0	na	1517819850
 6076729	answer	48799502	na	na	na	na	48829285	1518792734	no	na
 5006261	question	48799502	False	Size mismatch error during VGG finetuning	1	399	0	0	na	1518664948
 2429640	answer	49533736	na	na	na	na	49534382	1522239593	no	na
@@ -642,7 +642,7 @@ user994224150860182	question	50860182	True	Error when checking input: expected c
 7430165	answer	50723287	na	na	na	na	50726079	1528305549	no	na
 7146153	question	50723287	True	Meaning of batch_size in model.evaluate()	2	1056	0	0	na	1528296369
 1502527	answer	50710493	na	na	na	na	50710551	1528243650	yes	na
-5638586	question	50710493	True	CIFAR-10 Meaningless Normalization Values	1	1161	0	0	na	1528242983
+5638586	question	50710493	True	CIFAR-10 Meaningless Normalization Values	1	1162	0	0	na	1528242983
 8501250	answer	50721847	na	na	na	na	50723464	1528296931	yes	na
 4509378	question	50721847	True	Tensorflow: cannot extract filename from tfrecord	1	288	0	0	na	1528292036
 856804	answer	50710037	na	na	na	na	50710120	1528240041	no	na
@@ -799,7 +799,7 @@ Martijn Pieters50542683	answer	50542683	na	na	na	na	50542728	1527337464	yes	na
 4082104	answer	48245651	na	na	na	na	48337177	1516351781	no	na
 1053384	question	48245651	True	Handling Variable Size Sub-Batches inside a mini batch in Tensorflow	1	658	0	0	na	1515889987
 4790871	answer	50420359	na	na	na	na	50420629	1526688914	yes	na
-9137052	question	50420359	True	Python Tensorflow NoneType is not Iterable	1	3033	0	0	na	1526685750
+9137052	question	50420359	True	Python Tensorflow NoneType is not Iterable	1	3034	0	0	na	1526685750
 2320823	question	50417088	False	Training multiple models on a single GPU - Keras	0	162	0	0	na	1526667243
 2674061	question	50414900	False	How to load a sprase numerical custom dataset into PyTorch?	0	84	0	0	na	1526658046
 704329	answer	49758199	na	na	na	na	50407100	1526632538	yes	na
@@ -874,7 +874,7 @@ Martijn Pieters50542683	answer	50542683	na	na	na	na	50542728	1527337464	yes	na
 9305450	answer	50251821	na	na	na	na	50252116	1525864772	yes	na
 4542820	question	50251821	True	keras lstm translation model wrong predictions when adding or deleting one word	1	154	0	0	na	1525863784
 8005143	answer	50249658	na	na	na	na	50251915	1525864109	yes	na
-7373736	question	50249658	True	How to train a Pytorch net	1	544	0	0	na	1525857261
+7373736	question	50249658	True	How to train a Pytorch net	1	545	0	0	na	1525857261
 6780025	answer	49534421	na	na	na	na	49663517	1522897665	no	na
 5546193	answer	49534421	na	na	na	na	50250558	1525859983	no	na
 9061899	question	49534421	True	set_model() missing 1 required positional argument: &#39;model&#39;	2	4184	0	0	na	1522239687
@@ -951,10 +951,10 @@ Martijn Pieters50542683	answer	50542683	na	na	na	na	50542728	1527337464	yes	na
 8218075	question	50103262	True	tensorflow (tf) variable initialize shape bug?	1	94	0	0	na	1525100805
 1538049	question	50099904	False	Tensorflow Resnet example: Is the bottleneck size wrong?	0	756	0	0	na	1525088869
 8230355	answer	50098336	na	na	na	na	50099114	1525085947	yes	na
-7682259	question	50098336	True	How to Solve: &#39;str&#39; object has no attribute &#39;data_format&#39; in keras	1	512	0	0	na	1525083140
+7682259	question	50098336	True	How to Solve: &#39;str&#39; object has no attribute &#39;data_format&#39; in keras	1	513	0	0	na	1525083140
 5234494	answer	50065484	na	na	na	na	50066703	1524846529	yes	na
 562769	answer	50065484	na	na	na	na	50075071	1524908345	no	na
-1218046	question	50065484	True	Getting precision, recall and F1 score per class in Keras	2	7761	0	0	na	1524842186
+1218046	question	50065484	True	Getting precision, recall and F1 score per class in Keras	2	7762	0	0	na	1524842186
 147175	answer	50087271	na	na	na	na	50088265	1525015667	no	na
 9627138	answer	50087271	na	na	na	na	50088667	1525018173	no	na
 8376578	question	50087271	True	How to preprocess audio data for input into a Neural Network	2	1203	0	0	na	1525009666
@@ -969,7 +969,7 @@ Martijn Pieters50542683	answer	50542683	na	na	na	na	50542728	1527337464	yes	na
 2464597	answer	50070398	na	na	na	na	50070442	1524863924	no	na
 9535747	answer	50070398	na	na	na	na	50070455	1524864004	no	na
 8105551	answer	50070398	na	na	na	na	50070463	1524864056	no	na
-5878765	question	50070398	False	Import tensorflow contrib learn python learn	3	209	0	0	na	1524863640
+5878765	question	50070398	False	Import tensorflow contrib learn python learn	3	210	0	0	na	1524863640
 4320693	answer	50067558	na	na	na	na	50067613	1524850795	no	na
 1782792	answer	50067558	na	na	na	na	50067691	1524851121	no	na
 8793975	answer	50067558	na	na	na	na	50067714	1524851211	no	na
@@ -986,7 +986,7 @@ Martijn Pieters50542683	answer	50542683	na	na	na	na	50542728	1527337464	yes	na
 4320693	answer	50053151	na	na	na	na	50053246	1524785318	no	na
 8297339	question	50053151	False	&quot;The name &#39;y_pred:0&#39; refers to a Tensor which does not exist. The operation, &#39;y_pred&#39;, does not exist in the graph.&quot;	1	484	0	0	na	1524784674
 7830603	answer	50053292	na	na	na	na	50053689	1524789637	no	na
-7830603	question	50053292	False	Numpy to TFRecords and back	1	935	0	0	na	1524785766
+7830603	question	50053292	False	Numpy to TFRecords and back	1	936	0	0	na	1524785766
 624547	answer	50028940	na	na	na	na	50029372	1524682024	yes	na
 8241607	question	50028940	True	Tensorflow &amp; TFlearn Error - unexpected argument &#39;keepdims&#39;	1	345	0	0	na	1524680327
 6509745	answer	49857842	na	na	na	na	50049749	1524767252	no	na
@@ -1363,7 +1363,7 @@ user942761349386362	answer	49386362	na	na	na	na	49443505	1521785916	yes	na
 3954026	answer	49314500	na	na	na	na	49315528	1521186496	yes	na
 7492849	question	49314500	True	How to use caffe convnet for object detection in video frames?	1	341	0	0	na	1521181854
 1302884	answer	49225326	na	na	na	na	49309905	1521151045	yes	na
-5904928	question	49225326	True	What is actually num_unit in LSTM cell circuit?	1	1787	0	0	na	1520803979
+5904928	question	49225326	True	What is actually num_unit in LSTM cell circuit?	1	1789	0	0	na	1520803979
 8770778	answer	49278504	na	na	na	na	49304930	1521132350	yes	na
 8770778	question	49278504	True	Shape of tensor after tf.layers.Dense?	1	1560	0	0	na	1521032574
 8563649	answer	49296099	na	na	na	na	49297231	1521110277	no	na
@@ -1410,7 +1410,7 @@ user942761349386362	answer	49386362	na	na	na	na	49443505	1521785916	yes	na
 5361479	answer	49160481	na	na	na	na	49160613	1520454326	yes	na
 9458672	question	49160481	True	How can I use a trained CNN tensorflow model to test an input image from another .py file	1	1384	0	0	na	1520453703
 4449586	answer	48670989	na	na	na	na	48671299	1518029697	yes	na
-1823270	question	48670989	True	AttributeError: &#39;str&#39; object has no attribute &#39;ndim&#39;	1	10749	0	0	na	1518028484
+1823270	question	48670989	True	AttributeError: &#39;str&#39; object has no attribute &#39;ndim&#39;	1	10750	0	0	na	1518028484
 4909000	question	49163097	False	Keras Model Cannot Deduct Shape of Input	0	50	0	0	na	1520466191
 4730816	answer	49148098	na	na	na	na	49149908	1520419328	no	na
 712995	answer	49148098	na	na	na	na	49153040	1520429011	no	na
@@ -1444,7 +1444,7 @@ user491164849067798	question	49067798	False	Understanding the TfRecordDataset ma
 311744	answer	49097669	na	na	na	na	49097696	1520181457	no	na
 311744	question	49097669	True	optim.lr_scheduler.ReduceLROnPlateau gives error value cannot be converted to type float without overflow: inf	1	928	0	0	na	1520181316
 9418446	answer	49091553	na	na	na	na	49096518	1520174074	yes	na
-3789200	question	49091553	True	UserWarning: Discrepancy between trainable weights and collected trainable weights error	1	4190	0	0	na	1520132747
+3789200	question	49091553	True	UserWarning: Discrepancy between trainable weights and collected trainable weights error	1	4191	0	0	na	1520132747
 8795104	question	49093535	False	tensorflow inception v3 transfer learning	0	202	0	0	na	1520152737
 712995	answer	49019241	na	na	na	na	49068562	1519991510	no	na
 470184	question	49019241	True	Execute trained tensorflow model using linear algebra only	1	131	0	0	na	1519771891
@@ -1558,7 +1558,7 @@ user848327848901089	question	48901089	False	MemoryError when I normalize images 
 712995	answer	48829294	na	na	na	na	48829849	1518794533	yes	na
 2271929	question	48829294	True	Wide and deep tensorflow tutorial: Why do you test using only a batch of your evaluation dataset?	1	318	0	0	na	1518792759
 3182843	answer	48819393	na	na	na	na	48819422	1518749572	yes	na
-6185403	question	48819393	True	How can I apply rotation to image in Keras without using model.fit_generator?	1	2854	0	0	na	1518749223
+6185403	question	48819393	True	How can I apply rotation to image in Keras without using model.fit_generator?	1	2855	0	0	na	1518749223
 9357409	answer	48588507	na	na	na	na	48814965	1518723279	yes	na
 6185403	question	48588507	True	How can I use pre-trained weights from an existing CNN model for transfer learning in Keras?	1	2580	0	0	na	1517594805
 4574587	answer	48805407	na	na	na	na	48807498	1518698283	no	na
@@ -1568,11 +1568,11 @@ user848327848901089	question	48901089	False	MemoryError when I normalize images 
 4789373	answer	48716184	na	na	na	na	48748553	1518445072	yes	na
 6185403	question	48716184	True	How can I download and skip VGG weights that have no counterpart with my CNN in Keras?	2	3034	0	0	na	1518224516
 3236925	answer	48788991	na	na	na	na	48794119	1518633673	no	na
-5761164	question	48788991	False	How to print training loss in tensorflow python during training process	1	2633	0	0	na	1518616721
+5761164	question	48788991	False	How to print training loss in tensorflow python during training process	1	2634	0	0	na	1518616721
 8405902	answer	48785552	na	na	na	na	48786707	1518609553	yes	na
 8450262	question	48785552	True	Keras shape error in applications Inception Resnet v2	1	711	0	0	na	1518606042
 9345883	answer	48771136	na	na	na	na	48771693	1518540384	yes	na
-6916919	question	48771136	True	&#39;str&#39; object has no attribute &#39;base_dtype&#39; error TensorFlow model	1	775	0	0	na	1518538599
+6916919	question	48771136	True	&#39;str&#39; object has no attribute &#39;base_dtype&#39; error TensorFlow model	1	776	0	0	na	1518538599
 8819660	answer	48748818	na	na	na	na	48770293	1518535950	no	na
 6025145	question	48748818	True	Keras + Elephas - model trained more than nb_epoch times	1	154	0	0	na	1518445989
 6095482	answer	48740685	na	na	na	na	48749854	1518449241	yes	na
@@ -1673,7 +1673,7 @@ user491164848686528	question	48686528	True	How to properly set is_training when 
 9295087	question	48545477	True	Unexpected layers were generated in the mnist example in Tensorboard	2	85	0	0	na	1517411744
 9252840	question	48544188	False	Store values in a shared theano tensor variable to a numpy variable	0	75	0	0	na	1517407877
 3990607	answer	48527808	na	na	na	na	48529697	1517342909	yes	na
-6708644	question	48527808	True	Loss is increasing from first epoch itself	1	336	0	0	na	1517335444
+6708644	question	48527808	True	Loss is increasing from first epoch itself	1	337	0	0	na	1517335444
 3990607	answer	48414717	na	na	na	na	48539166	1517392400	yes	na
 8176285	question	48414717	True	Pytorch transfer learning predictions	1	323	0	0	na	1516767300
 6435921	question	48538404	False	Tensorflow cannot decode csv	0	461	0	0	na	1517389998
@@ -1755,7 +1755,7 @@ user491164848686528	question	48686528	True	How to properly set is_training when 
 712995	answer	48327962	na	na	na	na	48328072	1516300344	yes	na
 6379902	question	48327962	True	Upsampling using 3d transpose convolutions in Tensorflow	1	766	0	0	na	1516299912
 3990607	answer	48324152	na	na	na	na	48324389	1516288075	yes	na
-3990607	question	48324152	True	PyTorch: How to change the learning rate of an optimizer at any given moment (no LR schedule)	1	13703	0	0	na	1516287352
+3990607	question	48324152	True	PyTorch: How to change the learning rate of an optimizer at any given moment (no LR schedule)	1	13704	0	0	na	1516287352
 8580622	answer	48253906	na	na	na	na	48302353	1516195809	yes	na
 8580622	question	48253906	True	How to create a metric in Keras that return a multi-dimensional value?	1	862	0	0	na	1515962051
 1913898	answer	48230031	na	na	na	na	48273664	1516073301	no	na
@@ -1812,7 +1812,7 @@ user491164848686528	question	48686528	True	How to properly set is_training when 
 1653729	question	48158454	True	How to train a LSTM model on the fly?	1	328	0	0	na	1515447636
 9185084	question	48143587	False	Dense layer dimension error even after using flatten	0	118	0	0	na	1515379122
 712995	answer	48140989	na	na	na	na	48141688	1515360237	yes	na
-6659095	question	48140989	True	Keras LSTM input dimension setting	1	7570	0	0	na	1515355010
+6659095	question	48140989	True	Keras LSTM input dimension setting	1	7571	0	0	na	1515355010
 2788530	question	48141841	False	What is W[...,c] doing?	0	2686	0	0	na	1515361737
 2956066	answer	48141267	na	na	na	na	48141446	1515358560	no	na
 9161093	question	48141267	True	Stacking arrays in new dimension (numpy)	1	500	0	0	na	1515357260

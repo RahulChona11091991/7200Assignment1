@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c149376-0b8f-4a90-9fa4-2c5e9e4e26e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Results/1-ARN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Results/1-ARN.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Results/2-ABAN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Results/2-ABAN.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Results/3-CBEN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Results/3-CBEN.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Results/4-VBEN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Results/4-VBEN.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Results/5-VBEN2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Results/5-VBEN2.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/question_1_2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/question_1_2_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Results/All_Components_without_loops.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Results/Complete_graph_with_loops.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Results/Complete_graph_with_loops_single_color.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Results/Complete_graph_without_loops.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Results/Components_with_Loop.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Results/Explanation_Complete_graph_with_loops.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Results/Giant_Component.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Results/degreeBased.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Results/indegree_based.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Results/outdegree_based.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/1-ARN.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/1-ARN.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2-ABAN.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/2-ABAN.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/3-CBEN.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/3-CBEN.tsv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/4-VBEN.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/4-VBEN.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/5-VBEN2.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/5-VBEN2.tsv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/RANKS.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/RANKS.tsv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/RANKS_HITS.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/RANKS_HITS.tsv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/allPosts.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/allPosts.tsv" afterDir="false" />
@@ -44,19 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Code/question_1_2_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="91" column="33" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/question_5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1606">
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="383">
+              <caret line="133" column="32" selection-start-line="133" selection-start-column="32" selection-end-line="133" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -64,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RCommands/commands.R">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="585">
+              <caret line="117" selection-start-line="117" selection-end-line="117" />
             </state>
           </provider>
         </entry>
@@ -109,6 +74,7 @@
         <option value="$PROJECT_DIR$/data/RCommands/720 Assignment1 .R" />
         <option value="$PROJECT_DIR$/test" />
         <option value="$PROJECT_DIR$/Question1.py" />
+        <option value="$PROJECT_DIR$/RCommands/commands.R" />
         <option value="$PROJECT_DIR$/Code/question_1_2_3.py" />
       </list>
     </option>
@@ -253,7 +219,7 @@
       <workItem from="1572821960109" duration="7847000" />
       <workItem from="1572894027886" duration="5819000" />
       <workItem from="1575971314339" duration="1083000" />
-      <workItem from="1576091273071" duration="17590000" />
+      <workItem from="1576091273071" duration="18814000" />
     </task>
     <task id="LOCAL-00001" summary="Added missing files.">
       <created>1572902804406</created>
@@ -395,17 +361,32 @@
       <option name="project" value="LOCAL" />
       <updated>1576123558046</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Added Results.">
+      <created>1576129847634</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1576129847634</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Updated R Code file.">
+      <created>1576130555985</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1576130555985</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45981000" />
+    <option name="totallyTimeSpent" value="47205000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.84817815" visible="true" weight="0.2639485" />
-      <window_info id="Structure" order="1" sideWeight="0.15182187" side_tool="true" visible="true" weight="0.2639485" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8484375" visible="true" weight="0.2639485" />
+      <window_info id="Structure" order="1" sideWeight="0.1515625" side_tool="true" visible="true" weight="0.2639485" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32891566" />
@@ -418,8 +399,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49356222" weight="0.04076087" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Inspection Results" order="10" sideWeight="0.4985694" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" visible="true" weight="0.32880434" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5007153" side_tool="true" visible="true" weight="0.32880434" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" visible="true" weight="0.13043478" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5007153" side_tool="true" visible="true" weight="0.13043478" />
       <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.4985694" weight="0.32880434" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -448,7 +429,9 @@
     <MESSAGE value="Updated all File Headers." />
     <MESSAGE value="Updated all File Headers to &quot;from&quot;, &quot;to&quot; &amp; &quot;weight&quot;." />
     <MESSAGE value="Added ABN file write operation Pruning block." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added ABN file write operation Pruning block." />
+    <MESSAGE value="Added Results." />
+    <MESSAGE value="Updated R Code file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated R Code file." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/7200Assignment$Question1.coverage" NAME="Question1 Coverage Results" MODIFIED="1576122182838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -517,26 +500,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RCommands/commands.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Code/question_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1606">
+        <state relative-caret-position="-1552">
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RCommands/commands.R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Code/question_1_2_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="91" column="33" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
+        <state relative-caret-position="383">
+          <caret line="133" column="32" selection-start-line="133" selection-start-column="32" selection-end-line="133" selection-end-column="32" />
         </state>
       </provider>
     </entry>
