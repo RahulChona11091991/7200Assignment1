@@ -11,60 +11,88 @@ library(extrafont) # Optional
 library(readr)
 library(igraph)
 library(CINNA)
-library("ForceAtlas2")
-
+library(data.table)
 
 # ------------- Reading nodes from file -------------
-nodes <- read.delim("/Users/xbox/PycharmProjects/7200Assignment/data/allPosts.tsv")
+nodes <- fread("/Users/xbox/PycharmProjects/7200Assignment/data/allPosts.tsv",skip=1, select = c(1:2), fill = TRUE)
 
 
-# ------------- Reading links from file -------------
-links <- read.delim("/Users/xbox/PycharmProjects/7200Assignment/data/askerAnswerer.tsv")
-
+# ------------- Reading links from files -------------
+linksARN <- fread("/Users/xbox/PycharmProjects/7200Assignment/data/1-ARN.tsv",skip=1, select = c(1:2), fill = TRUE)
+linksABAN <- fread("/Users/xbox/PycharmProjects/7200Assignment/data/2-ABAN.tsv",skip=1, select = c(1:2), fill = TRUE)
+linksCBEN <- fread("/Users/xbox/PycharmProjects/7200Assignment/data/3-CBEN.tsv",skip=1, select = c(1:2), fill = TRUE)
+linksVBEN <- fread("/Users/xbox/PycharmProjects/7200Assignment/data/4-VBEN.tsv",skip=1, select = c(1:3), fill = TRUE)
+linksVBEN2 <- fread("/Users/xbox/PycharmProjects/7200Assignment/data/5-VBEN2.tsv",skip=1, select = c(1:3), fill = TRUE)
 
 # ------------- Understanding Data -------------
 head(nodes)
-head(links)
+head(linksARN)
+head(linksABAN)
+head(linksCBEN)
+head(linksVBEN)
+head(linksVBEN2)
 
 #-------------------------------------------------------------------------------------
-#--------------------------------With Loops-------------------------------------------
+#-------------------------------- With Loops -------------------------------------------
 #-------------------------------------------------------------------------------------
 
-#net <- graph.data.frame(links[,-1], directed=T)
-net <- graph.data.frame(links, unique(nodes$user_id), directed=T)
-
-# ------------- Finding degree of all nodes in Complete Graph -------------
-deg <- degree(net, mode="all")
-V(net)$size <- deg*3
-
-# ------------- Printing all Components of Complete Graph -------------
-graph_extract_components(net)
-
-# ------------- Extracting Giant Component From Complete Graph -------------
-giant_component_sub_graph <- giant_component_extract(net)
-print(giant_component_sub_graph)
-
-# ------------- Writing Giant Component To File -------------
-write_graph(giant_component_sub_graph[[1]], file = "/Users/xbox/PycharmProjects/7200Assignment/data/asker-answerer-giant.tsv", format = c("ncol"))
+netARN <- graph.data.frame(linksARN, unique(nodes$user_id), directed=T)
+netABAN <- graph.data.frame(linksABAN, unique(nodes$user_id), directed=T)
+netCBEN <- graph.data.frame(linksCBEN, unique(nodes$user_id), directed=T)
+netVBEN <- graph.data.frame(linksVBEN, unique(nodes$user_id), directed=T)
+netVBEN2 <- graph.data.frame(linksVBEN2, unique(nodes$user_id), directed=T)
 
 # ------------- Graph Plot With Loops -------------
 #Method 1
 par(mar=c(0,0,0,0))
-plot(net, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+plot(netARN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+plot(netABAN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+plot(netCBEN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+plot(netVBEN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+plot(netVBEN2, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
 
-#Method 2
-par(mfrow=c(2,2), mar=c(1,1,1,1))
-plot(net, layout=layout.random, main="random", vertex.size=2, edge.width=1,edge.arrow.size=0.02, vertex.label=NA)
+# Generate PDF Files
+pdf(file="/Users/xbox/PycharmProjects/7200Assignment/Results/1-ARN.pdf")
+plot(netARN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+dev.off()
 
-#Method 3 - Time Consuming Process
-layout <- layout.forceatlas2(net, iterations=2000, directed = TRUE, plotstep=0, plotlabels = FALSE)
+pdf(file="/Users/xbox/PycharmProjects/7200Assignment/Results/2-ABAN.pdf")
+plot(netABAN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+dev.off()
 
-# ------------- Plot Giant Component -------------
-plot(giant_component_sub_graph[[1]], main="Giant Component", vertex.size=8, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, vertex.label.degree = -pi/2, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray")
+pdf(file="/Users/xbox/PycharmProjects/7200Assignment/Results/3-CBEN.pdf")
+plot(netCBEN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+dev.off()
 
-# ------------- Plotting Components Complete Graph - With Loops  -------------
-plot(net,layout=layout_components(net), main="Plotting Component With Loops", vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, vertex.label.degree = -pi/2, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray")
+pdf(file="/Users/xbox/PycharmProjects/7200Assignment/Results/4-VBEN.pdf")
+plot(netVBEN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+dev.off()
 
+pdf(file="/Users/xbox/PycharmProjects/7200Assignment/Results/5-VBEN2.pdf")
+plot(netVBEN2, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+dev.off()
+
+
+# Generate PNG Files
+jpeg(file="/Users/xbox/PycharmProjects/7200Assignment/Results/1-ARN.jpg", width = 480*4, height = 480*4)
+plot(netARN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+dev.off()
+
+jpeg(file="/Users/xbox/PycharmProjects/7200Assignment/Results/2-ABAN.jpg", width = 480*4, height = 480*4)
+plot(netABAN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+dev.off()
+
+jpeg(file="/Users/xbox/PycharmProjects/7200Assignment/Results/3-CBEN.jpg", width = 480*4, height = 480*4)
+plot(netCBEN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+dev.off()
+
+jpeg(file="/Users/xbox/PycharmProjects/7200Assignment/Results/4-VBEN.jpg", width = 480*4, height = 480*4)
+plot(netVBEN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+dev.off()
+
+jpeg(file="/Users/xbox/PycharmProjects/7200Assignment/Results/5-VBEN2.jpg", width = 480*4, height = 480*4)
+plot(netVBEN2, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+dev.off()
 
 
 #-------------------------------------------------------------------------------------
@@ -73,21 +101,17 @@ plot(net,layout=layout_components(net), main="Plotting Component With Loops", ve
 
 
 #net_without_loops - if a user has answered its own question then skipping that edge.
-net_without_loops <-simplify(net,remove.multiple =F, remove.loops =T)
-E(net_without_loops)
-V(net_without_loops)
-graph_extract_components(net_without_loops)
-
-# ------------- Extracting Giant Component From Complete Graph Without loops -------------
-giant_component_sub_graph_without_Loops <- giant_component_extract(net_without_loops)
-print(giant_component_sub_graph_without_Loops)
+netARN_without_loops <-simplify(netARN,remove.multiple =F, remove.loops =T)
+netABAN_without_loops <-simplify(netABAN,remove.multiple =F, remove.loops =T)
+netCBEN_without_loops <-simplify(netCBEN,remove.multiple =F, remove.loops =T)
+netVBEN_without_loops <-simplify(netVBEN,remove.multiple =F, remove.loops =T)
+netVBEN2_without_loops <-simplify(netVBEN2,remove.multiple =F, remove.loops =T)
 
 # ------------- Graph Plot Without Loops -------------
 par(mar=c(0,0,0,0))
-plot(net_without_loops, main="Complete Graph Without Loops",vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
-
-# ------------- Plotting all Component Without Loops  -------------
-plot(net_without_loops,layout=layout_components(net_without_loops), main="Plotting all Component Without Loops", vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, vertex.label.degree = -pi/2, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
-
-
+plot(netARN_without_loops, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+plot(netABAN_without_loops, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+plot(netCBEN_without_loops, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+plot(netVBEN_without_loops, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
+plot(netVBEN2_without_loops, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
 
