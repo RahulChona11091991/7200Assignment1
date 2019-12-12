@@ -62,16 +62,6 @@ for index in range(5):
                     bestAnswererId = answerItem['owner']['user_id'] if answerItem['owner']['user_type'] == 'registered' else (answerItem['owner']['display_name'] + str(i2['question_id']))
 
 
-                with open('./ARN.tsv', 'a+') as output:
-                    output.write('{}\t{}\n'.format(
-
-                        i2['owner']['user_id'] if i2['owner']['user_type'] == 'registered' else
-                        i2['owner']['display_name'],
-                        answerItem['owner']['user_id'] if answerItem['owner']['user_type'] == 'registered' else
-                        (answerItem['owner']['display_name'] + str(i2['question_id'])),
-                        # answerItem['question_id'],
-                    ))
-
                 with open('./allPosts-metadata.tsv', 'a+') as output:
                     output.write('{}\t{}\t{}\t{}\n'.format(
 
@@ -102,6 +92,17 @@ for index in range(5):
                     ))
             # Pruning - If number of upvotes are greater than 4 then save the data
             if maxUpvoteCount > 4:
+
+                with open('./ARN.tsv', 'a+') as output:
+                    output.write('{}\t{}\n'.format(
+
+                        i2['owner']['user_id'] if i2['owner']['user_type'] == 'registered' else
+                        i2['owner']['display_name'],
+                        answerItem['owner']['user_id'] if answerItem['owner']['user_type'] == 'registered' else
+                        (answerItem['owner']['display_name'] + str(i2['question_id'])),
+                        # answerItem['question_id'],
+                ))
+
                 with open('./ABAN.tsv', 'a+') as output:
                     output.write('{}\t{}\n'.format(
                         askerId,
@@ -155,8 +156,6 @@ for index in range(5):
                                 # bestAnswerId,
                                 # maxUpvoteCount
                             ))
-
-
 
 
         # Question
