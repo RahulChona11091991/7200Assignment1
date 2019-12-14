@@ -14,15 +14,15 @@ library(CINNA)
 library(data.table)
 
 # ------------- Reading nodes from file -------------
-nodes <- fread("/Users/xbox/PycharmProjects/7200Assignment/data/allPosts.tsv",skip=1, select = c(1:2), fill = TRUE)
+nodes <- fread("./data/allPosts.tsv",skip=1, select = c(1:2), fill = TRUE)
 
 
 # ------------- Reading links from files -------------
-linksARN <- fread("/Users/xbox/PycharmProjects/7200Assignment/data/1-ARN.tsv",skip=1, select = c(1:2), fill = TRUE)
-linksABAN <- fread("/Users/xbox/PycharmProjects/7200Assignment/data/2-ABAN.tsv",skip=1, select = c(1:2), fill = TRUE)
-linksCBEN <- fread("/Users/xbox/PycharmProjects/7200Assignment/data/3-CBEN.tsv",skip=1, select = c(1:2), fill = TRUE)
-linksVBEN <- fread("/Users/xbox/PycharmProjects/7200Assignment/data/4-VBEN.tsv",skip=1, select = c(1:3), fill = TRUE)
-linksVBEN2 <- fread("/Users/xbox/PycharmProjects/7200Assignment/data/5-VBEN2.tsv",skip=1, select = c(1:3), fill = TRUE)
+linksARN <- fread("./data/1-ARN.tsv",skip=1, select = c(1:2), fill = TRUE)
+linksABAN <- fread("./data/2-ABAN.tsv",skip=1, select = c(1:2), fill = TRUE)
+linksCBEN <- fread("./data/3-CBEN.tsv",skip=1, select = c(1:2), fill = TRUE)
+linksVBEN <- fread("./data/4-VBEN.tsv",skip=1, select = c(1:3), fill = TRUE)
+linksVBEN2 <- fread("./data/5-VBEN2.tsv",skip=1, select = c(1:3), fill = TRUE)
 
 # ------------- Understanding Data -------------
 head(nodes)
@@ -52,45 +52,45 @@ plot(netVBEN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vert
 plot(netVBEN2, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
 
 # Generate PDF Files
-pdf(file="/Users/xbox/PycharmProjects/7200Assignment/Results/1-ARN.pdf")
+pdf(file="./Results/1-ARN.pdf")
 plot(netARN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
 dev.off()
 
-pdf(file="/Users/xbox/PycharmProjects/7200Assignment/Results/2-ABAN.pdf")
+pdf(file="./Results/2-ABAN.pdf")
 plot(netABAN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
 dev.off()
 
-pdf(file="/Users/xbox/PycharmProjects/7200Assignment/Results/3-CBEN.pdf")
+pdf(file="./Results/3-CBEN.pdf")
 plot(netCBEN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
 dev.off()
 
-pdf(file="/Users/xbox/PycharmProjects/7200Assignment/Results/4-VBEN.pdf")
+pdf(file="./Results/4-VBEN.pdf")
 plot(netVBEN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
 dev.off()
 
-pdf(file="/Users/xbox/PycharmProjects/7200Assignment/Results/5-VBEN2.pdf")
+pdf(file="./Results/5-VBEN2.pdf")
 plot(netVBEN2, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
 dev.off()
 
 
 # Generate PNG Files
-jpeg(file="/Users/xbox/PycharmProjects/7200Assignment/Results/1-ARN.jpg", width = 480*4, height = 480*4)
+jpeg(file="./Results/1-ARN.jpg", width = 480*4, height = 480*4)
 plot(netARN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
 dev.off()
 
-jpeg(file="/Users/xbox/PycharmProjects/7200Assignment/Results/2-ABAN.jpg", width = 480*4, height = 480*4)
+jpeg(file="./Results/2-ABAN.jpg", width = 480*4, height = 480*4)
 plot(netABAN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
 dev.off()
 
-jpeg(file="/Users/xbox/PycharmProjects/7200Assignment/Results/3-CBEN.jpg", width = 480*4, height = 480*4)
+jpeg(file="./Results/3-CBEN.jpg", width = 480*4, height = 480*4)
 plot(netCBEN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
 dev.off()
 
-jpeg(file="/Users/xbox/PycharmProjects/7200Assignment/Results/4-VBEN.jpg", width = 480*4, height = 480*4)
+jpeg(file="./Results/4-VBEN.jpg", width = 480*4, height = 480*4)
 plot(netVBEN, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
 dev.off()
 
-jpeg(file="/Users/xbox/PycharmProjects/7200Assignment/Results/5-VBEN2.jpg", width = 480*4, height = 480*4)
+jpeg(file="./Results/5-VBEN2.jpg", width = 480*4, height = 480*4)
 plot(netVBEN2, vertex.size=2, vertex.color = rainbow(10, .8, .8, alpha= .8), vertex.label.color = "black", vertex.label.cex = 0.4, edge.arrow.size = 0.3, edge.arrow.width = 0.4, edge.color = "gray", vertex.label=NA)
 dev.off()
 
