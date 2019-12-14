@@ -3,11 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="7c149376-0b8f-4a90-9fa4-2c5e9e4e26e4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/question_1_2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/question_1_2_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/4-VBEN.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/4-VBEN.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/RANKS.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/RANKS.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/RANKS_HITS.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/RANKS_HITS.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/allPosts.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/allPosts.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RCommands/commands.R" beforeDir="false" afterPath="$PROJECT_DIR$/RCommands/commands.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/1-ARN.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Results/1-ARN.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/1-ARN.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Results/1-ARN.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/2-ABAN.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Results/2-ABAN.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/2-ABAN.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Results/2-ABAN.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/3-CBEN.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Results/3-CBEN.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/3-CBEN.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Results/3-CBEN.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/4-VBEN.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Results/4-VBEN.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/4-VBEN.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Results/4-VBEN.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/5-VBEN2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Results/5-VBEN2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/5-VBEN2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Results/5-VBEN2.pdf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,20 +23,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Code/question_1_2_3.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RCommands/commands.R">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="133" column="32" selection-start-line="133" selection-start-column="32" selection-end-line="133" selection-end-column="32" />
+            <state>
+              <caret line="23" column="35" selection-end-line="117" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RCommands/commands.R">
+        <entry file="file://$PROJECT_DIR$/Code/question_5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="117" selection-start-line="117" selection-end-line="117" />
+            <state relative-caret-position="214">
+              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Code/plot_posts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,6 +73,8 @@
       <find>allPosts</find>
       <find>encode</find>
       <find>allPosts.tsv</find>
+      <find>$PROJECT_DIR$</find>
+      <find>pruni</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -79,10 +102,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="831" />
+    <option name="height" value="828" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -90,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,7 +149,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,7 +242,8 @@
       <workItem from="1572821960109" duration="7847000" />
       <workItem from="1572894027886" duration="5819000" />
       <workItem from="1575971314339" duration="1083000" />
-      <workItem from="1576091273071" duration="18814000" />
+      <workItem from="1576091273071" duration="20959000" />
+      <workItem from="1576293872751" duration="2009000" />
     </task>
     <task id="LOCAL-00001" summary="Added missing files.">
       <created>1572902804406</created>
@@ -375,18 +399,24 @@
       <option name="project" value="LOCAL" />
       <updated>1576130555985</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="UPdated code for 4-VBEN">
+      <created>1576131116609</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131116609</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47205000" />
+    <option name="totallyTimeSpent" value="51359000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8484375" visible="true" weight="0.2639485" />
-      <window_info id="Structure" order="1" sideWeight="0.1515625" side_tool="true" visible="true" weight="0.2639485" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.846875" visible="true" weight="0.26752505" />
+      <window_info id="Structure" order="1" sideWeight="0.153125" side_tool="true" visible="true" weight="0.26752505" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32891566" />
@@ -399,8 +429,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49356222" weight="0.04076087" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Inspection Results" order="10" sideWeight="0.4985694" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" visible="true" weight="0.13043478" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5007153" side_tool="true" visible="true" weight="0.13043478" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4985694" visible="true" weight="0.13043478" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50143063" side_tool="true" visible="true" weight="0.13043478" />
       <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.4985694" weight="0.32880434" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -408,7 +438,7 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="6" side_tool="true" weight="0.069384836" />
+      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="6" side_tool="true" visible="true" weight="0.069384836" />
       <window_info anchor="right" id="Database" order="7" />
     </layout>
   </component>
@@ -431,7 +461,8 @@
     <MESSAGE value="Added ABN file write operation Pruning block." />
     <MESSAGE value="Added Results." />
     <MESSAGE value="Updated R Code file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated R Code file." />
+    <MESSAGE value="UPdated code for 4-VBEN" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPdated code for 4-VBEN" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/7200Assignment$Question1.coverage" NAME="Question1 Coverage Results" MODIFIED="1576122182838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -455,13 +486,7 @@
     <entry file="file://$PROJECT_DIR$/allPosts.tsv" />
     <entry file="file://$PROJECT_DIR$/edges.tsv" />
     <entry file="file://$PROJECT_DIR$/askerAnswerer.tsv" />
-    <entry file="file://$PROJECT_DIR$/data/asker-answerer-giant.tsv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/asker-answerer-giant.tsv" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -476,23 +501,11 @@
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/RCommands/720 Assignment1 .R">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Question1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="37" column="86" selection-start-line="37" selection-start-column="86" selection-end-line="37" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/RCommands/720 Assignment1 .R" />
+    <entry file="file://$PROJECT_DIR$/Question1.py" />
     <entry file="file://$PROJECT_DIR$/test">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -500,26 +513,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RCommands/commands.R">
+    <entry file="file://$PROJECT_DIR$/Code/question_1_2_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        <state relative-caret-position="308">
+          <caret line="91" column="89" selection-end-line="190" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RCommands/commands.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="23" column="35" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Results/posts_creation_dates.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Code/question_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1552">
+        <state relative-caret-position="214">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/question_1_2_3.py">
+    <entry file="file://$PROJECT_DIR$/Code/plot_posts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="133" column="32" selection-start-line="133" selection-start-column="32" selection-end-line="133" selection-end-column="32" />
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
